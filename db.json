@@ -1,0 +1,945 @@
+{
+  "user": [
+    {
+      "id": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "email": "anchal@gmail.com",
+      "password": "123456",
+      "university": "GNA University",
+      "gender": "female",
+      "username": "anchal",
+      "profileImg": "https://avatar.iran.liara.run/public/68",
+      "bio": "B.Tech student with a love for programming and a knack for innovation.",
+      "Timestamp": "2024-08-11T07:49:35.579Z"
+    },
+    {
+      "id": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "email": "deepak@gmail.com",
+      "password": "123456",
+      "university": "GNA University",
+      "gender": "male",
+      "username": "deepak",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "bio": "Web developer with a passion for front-end technologies.",
+      "Timestamp": "2024-08-11T07:49:35.579Z"
+    },
+    {
+      "id": "5a9480fa-3897-4a1d-aee9-a6039a427563",
+      "name": "Sakshi",
+      "email": "sakshi@gmail.com",
+      "password": "123456",
+      "university": "Panjab University",
+      "gender": "female",
+      "username": "sakshi1",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "bio": "Tech enthusiast passionate about creating user-friendly applications.",
+      "Timestamp": "2024-08-11T07:49:35.579Z"
+    },
+    {
+      "id": "cc10a3f3-0870-4e42-b08e-02d4c531fde4",
+      "name": "Isha",
+      "email": "isha@gmail.com",
+      "password": "123456",
+      "university": "Amity University",
+      "gender": "female",
+      "username": "isha1",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "bio": "Aspiring software engineer with a focus on AI and machine learning.",
+      "Timestamp": "2024-08-11T07:49:35.579Z"
+    },
+    {
+      "id": "6b5aa1b7-f040-4d3b-9eea-d59328d04e57",
+      "name": "Kritika",
+      "email": "kritika@gmail.com",
+      "password": "123456",
+      "university": "Lovely Professional University",
+      "gender": "female",
+      "username": "kritika1",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "bio": "B.Tech student exploring the world of data science.",
+      "Timestamp": "2024-08-11T07:49:35.579Z"
+    },
+    {
+      "id": "d284f9fd-1d94-446a-b99d-33f5b4ad7c8d",
+      "name": "Pooja",
+      "email": "pooja@gmail.com",
+      "password": "123456",
+      "university": "Chandigarh University",
+      "gender": "female",
+      "username": "pooja1",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "bio": "Web developer with a passion for front-end technologies.",
+      "Timestamp": "2024-08-11T07:49:35.579Z"
+    },
+    {
+      "id": "6139e40a-441d-49cd-b210-36d3df2cc68c",
+      "name": "Rohan",
+      "email": "rohan@gmail.com",
+      "password": "123456",
+      "university": "Delhi University",
+      "gender": "male",
+      "username": "rohan1",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "bio": "B.Tech student specializing in full-stack development.",
+      "Timestamp": "2024-08-11T07:49:35.579Z"
+    },
+    {
+      "id": "8bce49f8-f475-4468-ac79-5dbc51c9b31a",
+      "name": "Aman",
+      "email": "aman@gmail.com",
+      "password": "123456",
+      "university": "Guru Nanak Dev University",
+      "gender": "male",
+      "username": "aman1",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "bio": "Future data analyst with a strong background in mathematics.",
+      "Timestamp": "2024-08-11T07:49:35.579Z"
+    },
+    {
+      "id": "567f4b09-c2d3-471e-97ed-ca50f618ab17",
+      "name": "Vikas",
+      "email": "vikas@gmail.com",
+      "password": "123456",
+      "university": "Punjab Technical University",
+      "gender": "male",
+      "username": "vikas1",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "bio": "Software developer with a focus on scalable back-end solutions.",
+      "Timestamp": "2024-08-11T07:49:35.579Z"
+    },
+    {
+      "id": "9dff4203-aabe-4946-915e-a263eda26da2",
+      "name": "Abhishek",
+      "email": "abhishek@gmail.com",
+      "password": "123456",
+      "university": "Jamia Millia Islamia",
+      "gender": "male",
+      "username": "abhishek1",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "bio": "Passionate about cloud computing and DevOps.",
+      "Timestamp": "2024-08-11T07:49:35.579Z"
+    },
+    {
+      "id": "e441091c-ef41-4f02-9aa2-8936a04b7cec",
+      "name": "Karan",
+      "email": "karan@gmail.com",
+      "password": "123456",
+      "university": "Thapar Institute of Engineering and Technology",
+      "gender": "male",
+      "username": "karan1",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "bio": "B.Tech student with a passion for cybersecurity.",
+      "Timestamp": "2024-08-11T07:49:35.579Z"
+    },
+    {
+      "id": "144f6884-1772-458d-b598-b83e3963087e",
+      "name": "Deepak",
+      "email": "deepak123@gmail.com",
+      "password": "123412",
+      "university": "GNA university",
+      "gender": "male",
+      "username": "Deepak5128",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "bio": "Dedicated to making a positive impact in the world.",
+      "Timestamp": "2024-08-11T12:56:34.809Z"
+    }
+  ],
+  "notes": [
+    {
+      "name": "Deepak",
+      "title": "Computer Networks (B.Tech)",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "link": "https://en.wikipedia.org/wiki/Computer_network",
+      "id": "a1b2c3d4-e5f6-7890-ab12-cd34ef56gh78",
+      "userId": "a1b2c3d4-e5f6-7890-ab12-cd34ef56gh78",
+      "username": "deepak_08",
+      "description": "An introduction to the fundamentals of computer networks and data communication.",
+      "timestamp": "2024-08-11T10:15:30Z"
+    },
+    {
+      "name": "Anjali",
+      "title": "Software Engineering (BCA)",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "link": "https://en.wikipedia.org/wiki/Software_engineering",
+      "id": "b2c3d4e5-f678-90ab-12cd-34ef56gh7890",
+      "userId": "b2c3d4e5-f678-90ab-12cd-34ef56gh7890",
+      "username": "anjali_15",
+      "description": "Understanding software development processes and methodologies.",
+      "timestamp": "2024-08-11T11:22:45Z"
+    },
+    {
+      "name": "Ravi",
+      "title": "Operating Systems (B.Tech)",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "link": "https://en.wikipedia.org/wiki/Operating_system",
+      "id": "c3d4e5f6-7890-ab12-cd34-ef56gh7890ab",
+      "userId": "c3d4e5f6-7890-ab12-cd34-ef56gh7890ab",
+      "username": "ravi_os_12",
+      "description": "A deep dive into operating system concepts and architecture.",
+      "timestamp": "2024-08-11T12:30:15Z"
+    },
+    {
+      "name": "Priya",
+      "title": "Data Structures (BCA)",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "link": "https://en.wikipedia.org/wiki/Data_structure",
+      "id": "d4e5f678-90ab-12cd-34ef-56gh7890abcd",
+      "userId": "d4e5f678-90ab-12cd-34ef-56gh7890abcd",
+      "username": "priya_ds_20",
+      "description": "Study of data organization, management, and storage formats.",
+      "timestamp": "2024-08-11T13:45:00Z"
+    },
+    {
+      "name": "Amit",
+      "title": "Database Management Systems (B.Tech)",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "link": "https://en.wikipedia.org/wiki/Database_management_system",
+      "id": "e5f67890-ab12-cd34-ef56-gh7890abcdef",
+      "userId": "e5f67890-ab12-cd34-ef56-gh7890abcdef",
+      "username": "amit_dbms_17",
+      "description": "Exploring database design, development, and management.",
+      "timestamp": "2024-08-11T14:10:35Z"
+    },
+    {
+      "name": "Neha",
+      "title": "Computer Graphics (BCA)",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "link": "https://en.wikipedia.org/wiki/Computer_graphics",
+      "id": "f67890ab-12cd-34ef-56gh-7890abcdef12",
+      "userId": "f67890ab-12cd-34ef-56gh-7890abcdef12",
+      "username": "neha_cg_14",
+      "description": "Introduction to the principles and techniques of computer graphics.",
+      "timestamp": "2024-08-11T15:25:10Z"
+    },
+    {
+      "name": "Suresh",
+      "title": "Human Anatomy (MBBS)",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "link": "https://en.wikipedia.org/wiki/Human_anatomy",
+      "id": "g78901bc-23de-45fg-67hi-89jk0lmnopqr",
+      "userId": "g78901bc-23de-45fg-67hi-89jk0lmnopqr",
+      "username": "suresh_anatomy_21",
+      "description": "Study of the structure of the human body and its organs.",
+      "timestamp": "2024-08-11T16:30:25Z"
+    },
+    {
+      "name": "Kavya",
+      "title": "Physiology (MBBS)",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "link": "https://en.wikipedia.org/wiki/Physiology",
+      "id": "h89012cd-34ef-56gh-78ij-90klmnopqr12",
+      "userId": "h89012cd-34ef-56gh-78ij-90klmnopqr12",
+      "username": "kavya_physiology_19",
+      "description": "Exploration of the functions and processes of the human body.",
+      "timestamp": "2024-08-11T17:40:05Z"
+    },
+    {
+      "name": "Raj",
+      "title": "Electromagnetic Fields (B.Tech)",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "link": "https://en.wikipedia.org/wiki/Electromagnetic_field",
+      "id": "i90123de-45fg-67hi-89jk-01lmno2pq345",
+      "userId": "i90123de-45fg-67hi-89jk-01lmno2pq345",
+      "username": "raj_emf_22",
+      "description": "Study of electric and magnetic fields and their interactions.",
+      "timestamp": "2024-08-11T18:50:40Z"
+    },
+    {
+      "name": "Meera",
+      "title": "Computer Architecture (BCA)",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "link": "https://en.wikipedia.org/wiki/Computer_architecture",
+      "id": "j01234ef-56gh-78ij-90kl-mnopqr123456",
+      "userId": "j01234ef-56gh-78ij-90kl-mnopqr123456",
+      "username": "meera_arch_23",
+      "description": "Understanding the design and organization of computer systems.",
+      "timestamp": "2024-08-11T19:55:20Z"
+    },
+    {
+      "name": "Vijay",
+      "title": "Advanced Calculus (BSc)",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "link": "https://en.wikipedia.org/wiki/Calculus",
+      "id": "k12345fg-67hi-89jk-01lm-23nopqr45678",
+      "userId": "k12345fg-67hi-89jk-01lm-23nopqr45678",
+      "username": "vijay_calc_20",
+      "description": "In-depth study of calculus concepts and applications.",
+      "timestamp": "2024-08-11T20:45:30Z"
+    },
+    {
+      "name": "Ritika",
+      "title": "Genetics (BSc)",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "link": "https://en.wikipedia.org/wiki/Genetics",
+      "id": "l23456gh-78ij-90kl-mnop-qr1234567890",
+      "userId": "l23456gh-78ij-90kl-mnop-qr1234567890",
+      "username": "ritika_genetics_18",
+      "description": "Study of heredity and the variation of inherited characteristics.",
+      "timestamp": "2024-08-11T21:35:55Z"
+    },
+    {
+      "name": "Arjun",
+      "title": "Microbiology (BSc)",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "link": "https://en.wikipedia.org/wiki/Microbiology",
+      "id": "m34567ij-90kl-12mn-opqr-23stuv456789",
+      "userId": "m34567ij-90kl-12mn-opqr-23stuv456789",
+      "username": "arjun_micro_22",
+      "description": "Exploring microorganisms and their impact on humans and the environment.",
+      "timestamp": "2024-08-11T22:25:10Z"
+    },
+    {
+      "name": "Pooja",
+      "title": "Internal Medicine (MBBS)",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "link": "https://en.wikipedia.org/wiki/Internal_medicine",
+      "id": "n45678jk-01lm-23no-pqr4-stuv56789012",
+      "userId": "n45678jk-01lm-23no-pqr4-stuv56789012",
+      "username": "pooja_medicine_20",
+      "description": "Focus on the prevention, diagnosis, and treatment of adult diseases.",
+      "timestamp": "2024-08-11T23:15:45Z"
+    },
+    {
+      "name": "Sanjay",
+      "title": "Software Testing (BCA)",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "link": "https://en.wikipedia.org/wiki/Software_testing",
+      "id": "o56789kl-12mn-34op-qr56-stuvw890123",
+      "userId": "o56789kl-12mn-34op-qr56-stuvw890123",
+      "username": "sanjay_testing_18",
+      "description": "Techniques and practices for testing software applications.",
+      "timestamp": "2024-08-11T09:05:35Z"
+    },
+    {
+      "name": "Ishita",
+      "title": "Pharmacology (MBBS)",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "link": "https://en.wikipedia.org/wiki/Pharmacology",
+      "id": "p67890mn-23op-45qr-stuv-67wxyz89012",
+      "userId": "p67890mn-23op-45qr-stuv-67wxyz89012",
+      "username": "ishita_pharma_22",
+      "description": "Study of drugs and their effects on the human body.",
+      "timestamp": "2024-08-11T10:15:25Z"
+    },
+    {
+      "name": "Kiran",
+      "title": "Computer Vision (B.Tech)",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "link": "https://en.wikipedia.org/wiki/Computer_vision",
+      "id": "q78901op-12qr-34st-uv56-wxyz78901234",
+      "userId": "q78901op-12qr-34st-uv56-wxyz78901234",
+      "username": "kiran_cv_21",
+      "description": "Techniques and technologies used in computer vision.",
+      "timestamp": "2024-08-11T11:25:10Z"
+    },
+    {
+      "name": "Sonia",
+      "title": "Networking Fundamentals (BCA)",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "link": "https://en.wikipedia.org/wiki/Networking",
+      "id": "r89012pq-34st-uv56-wxyz-78abcdef9012",
+      "userId": "r89012pq-34st-uv56-wxyz-78abcdef9012",
+      "username": "sonia_net_19",
+      "description": "Introduction to networking principles and protocols.",
+      "timestamp": "2024-08-11T12:35:50Z"
+    },
+    {
+      "name": "Rohit",
+      "title": "Digital Logic Design (B.Tech)",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "link": "https://en.wikipedia.org/wiki/Digital_logic",
+      "id": "s90123qr-45st-uv56-wxyz-89abcdef0123",
+      "userId": "s90123qr-45st-uv56-wxyz-89abcdef0123",
+      "username": "rohit_dld_20",
+      "description": "Design and analysis of digital circuits and systems.",
+      "timestamp": "2024-08-11T13:40:35Z"
+    },
+    {
+      "name": "Aarti",
+      "title": "Biochemistry (BSc)",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "link": "https://en.wikipedia.org/wiki/Biochemistry",
+      "id": "t01234st-uv56-wxyz-89ab-cdef01234567",
+      "userId": "t01234st-uv56-wxyz-89ab-cdef01234567",
+      "username": "aarti_bio_18",
+      "description": "Study of the chemical processes within and related to living organisms.",
+      "timestamp": "2024-08-11T14:50:20Z"
+    },
+    {
+      "name": "Mohan",
+      "title": "Signal Processing (B.Tech)",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "link": "https://en.wikipedia.org/wiki/Signal_processing",
+      "id": "u12345vw-xy67-z890-abcd-efgh01234567",
+      "userId": "u12345vw-xy67-z890-abcd-efgh01234567",
+      "username": "mohan_sp_23",
+      "description": "Techniques for analyzing, modifying, and synthesizing signals.",
+      "timestamp": "2024-08-11T15:55:10Z"
+    },
+    {
+      "name": "Sanya",
+      "title": "Clinical Pharmacology (MBBS)",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "link": "https://en.wikipedia.org/wiki/Clinical_pharmacology",
+      "id": "v23456wx-78yz-90ab-cdef-0123456789ab",
+      "userId": "v23456wx-78yz-90ab-cdef-0123456789ab",
+      "username": "sanya_clinical_21",
+      "description": "Focus on the application of pharmacology in clinical settings.",
+      "timestamp": "2024-08-11T16:30:00Z"
+    },
+    {
+      "name": "Ankit",
+      "title": "Web Technologies (BCA)",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "link": "https://en.wikipedia.org/wiki/Web_development",
+      "id": "w34567yz-90ab-cdef-0123-4567890abcd",
+      "userId": "w34567yz-90ab-cdef-0123-4567890abcd",
+      "username": "ankit_web_22",
+      "description": "Exploration of technologies used in web development.",
+      "timestamp": "2024-08-11T17:20:45Z"
+    },
+    {
+      "name": "Rina",
+      "title": "Human Physiology (MBBS)",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "link": "https://en.wikipedia.org/wiki/Human_physiology",
+      "id": "x45678ab-cdef-0123-4567-890123456789",
+      "userId": "x45678ab-cdef-0123-4567-890123456789",
+      "username": "rina_physiology_19",
+      "description": "Study of the normal functions of the human body.",
+      "timestamp": "2024-08-11T18:10:30Z"
+    },
+    {
+      "name": "Rakesh",
+      "title": "Database Systems (B.Tech)",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "link": "https://en.wikipedia.org/wiki/Database",
+      "id": "y56789bc-def0-1234-5678-901234567890",
+      "userId": "y56789bc-def0-1234-5678-901234567890",
+      "username": "rakesh_db_20",
+      "description": "Advanced study of database management and design.",
+      "timestamp": "2024-08-11T19:00:15Z"
+    },
+    {
+      "name": "Sonia",
+      "title": "Environmental Science (BSc)",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "link": "https://en.wikipedia.org/wiki/Environmental_science",
+      "id": "z67890cd-ef01-2345-6789-0123456789ab",
+      "userId": "z67890cd-ef01-2345-6789-0123456789ab",
+      "username": "sonia_env_22",
+      "description": "Study of environmental processes and human impact on the environment.",
+      "timestamp": "2024-08-11T20:30:50Z"
+    },
+    {
+      "name": "Ashok",
+      "title": "Digital Communication (B.Tech)",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "link": "https://en.wikipedia.org/wiki/Digital_communication",
+      "id": "a78901de-23fg-45hi-67jk-89lmnopqrs12",
+      "userId": "a78901de-23fg-45hi-67jk-89lmnopqrs12",
+      "username": "ashok_dc_21",
+      "description": "Principles and techniques of digital communication systems.",
+      "timestamp": "2024-08-11T21:45:35Z"
+    },
+    {
+      "name": "Divya",
+      "title": "Software Project Management (BCA)",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "link": "https://en.wikipedia.org/wiki/Software_project_management",
+      "id": "b89012ef-34gh-56ij-78kl-90mnopqr1234",
+      "userId": "b89012ef-34gh-56ij-78kl-90mnopqr1234",
+      "username": "divya_spm_19",
+      "description": "Techniques and tools for managing software development projects.",
+      "timestamp": "2024-08-11T22:25:00Z"
+    },
+    {
+      "name": "Deepak",
+      "title": "Advanced Programming (B.Tech)",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "link": "https://en.wikipedia.org/wiki/Programming_language",
+      "id": "c90123fg-45hi-67jk-89lm-nopqrstu4567",
+      "userId": "c90123fg-45hi-67jk-89lm-nopqrstu4567",
+      "username": "deepak_ap_20",
+      "description": "Advanced concepts in programming and software development.",
+      "timestamp": "2024-08-11T23:35:25Z"
+    },
+    {
+      "name": "Sita",
+      "title": "Cell Biology (BSc)",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "link": "https://en.wikipedia.org/wiki/Cell_biology",
+      "id": "d01234gh-56ij-78kl-90mn-opqr12345678",
+      "userId": "d01234gh-56ij-78kl-90mn-opqr12345678",
+      "username": "sita_cell_22",
+      "description": "Study of cell structure, function, and processes.",
+      "timestamp": "2024-08-11T09:20:40Z"
+    },
+    {
+      "name": "Ravi",
+      "title": "Introduction to Medical Imaging (MBBS)",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "link": "https://en.wikipedia.org/wiki/Medical_imaging",
+      "id": "e12345ij-67kl-89mn-opqr-1234567890ab",
+      "userId": "e12345ij-67kl-89mn-opqr-1234567890ab",
+      "username": "ravi_mi_19",
+      "description": "Basics of medical imaging techniques and their applications.",
+      "timestamp": "2024-08-11T10:05:25Z"
+    },
+    {
+      "name": "Pooja",
+      "title": "Basic Econometrics (BSc)",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "link": "https://en.wikipedia.org/wiki/Econometrics",
+      "id": "f23456jk-78lm-90no-pqrs-tuvwxy012345",
+      "userId": "f23456jk-78lm-90no-pqrs-tuvwxy012345",
+      "username": "pooja_econ_22",
+      "description": "Introduction to statistical methods for economic data analysis.",
+      "timestamp": "2024-08-11T11:20:15Z"
+    },
+    {
+      "name": "Nikhil",
+      "title": "Artificial Intelligence (B.Tech)",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "link": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+      "id": "g34567kl-89mn-opqr-stuv-wxyz89012345",
+      "userId": "g34567kl-89mn-opqr-stuv-wxyz89012345",
+      "username": "nikhil_ai_21",
+      "description": "Study of intelligent agents and AI technologies.",
+      "timestamp": "2024-08-11T12:35:55Z"
+    },
+    {
+      "name": "Kavita",
+      "title": "Molecular Biology (BSc)",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "link": "https://en.wikipedia.org/wiki/Molecular_biology",
+      "id": "h45678mn-90op-qrst-uvw4-x56789012yz",
+      "userId": "h45678mn-90op-qrst-uvw4-x56789012yz",
+      "username": "kavita_molbio_20",
+      "description": "Exploration of molecular mechanisms in biological processes.",
+      "timestamp": "2024-08-11T13:50:10Z"
+    },
+    {
+      "id": "00384480-62aa-4437-b509-e84b1b9ec3ae",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "title": "Maths-12",
+      "description": "12th class maths solutions",
+      "timestamp": "2024-08-12T13:27:50.513Z"
+    },
+    {
+      "id": "290014b0-7fb0-4060-b345-8ce0e0b68ccb",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "title": "Minor Projecr",
+      "description": "Project report file of AlphaDocs",
+      "timestamp": "2024-08-13T15:03:31.986Z"
+    }
+  ],
+  "blog": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-ab12-cd34ef56gh78",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "blogImg": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514",
+      "title": "The Art and Science of Blogging: A Deep Dive",
+      "content": "Blogging, once a niche activity, has grown into a formidable platform for sharing ideas, building brands, and even driving global conversations. A blog, short for 'weblog,' originally started as a personal online journal where individuals could share their thoughts, experiences, and opinions. Over time, it has evolved into a diverse medium used by businesses, educators, and influencers to connect with audiences. The beauty of blogging lies in its accessibility; anyone with an internet connection can start a blog. But what makes a blog successful? It’s a blend of art and science. The art lies in crafting compelling content that resonates with readers. Whether it's a personal anecdote, a how-to guide, or a deep analysis of a complex topic, the content should be engaging and informative. The science of blogging involves understanding SEO (Search Engine Optimization), the algorithms that drive traffic to your blog, and the metrics that help you gauge success. Regularly updating content, using keywords strategically, and building backlinks are crucial aspects of maintaining a blog's visibility. Consistency is also key; readers expect fresh content regularly, and failing to deliver can result in losing your audience. A successful blog is not just about writing; it’s about understanding your audience, knowing what they want, and delivering it in a way that adds value to their lives.",
+      "links": [
+        "https://blog.hubspot.com/marketing/how-to-start-a-blog",
+        "https://neilpatel.com/blog/blogging/",
+        "https://www.searchenginejournal.com/blog-seo-guide/",
+        "https://www.semrush.com/blog/what-is-blogging/"
+      ],
+      "tags": [
+        "blogging",
+        "SEO",
+        "content creation",
+        "web marketing",
+        "online presence"
+      ],
+      "time": "2024-07-25T14:42:18.567Z"
+    },
+    {
+      "id": "d2e3f4g5-h6i7-8901-ab23-cd45ef67gh89",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "blogImg": "https://images.unsplash.com/photo-1497493292307-31c376b6e479",
+      "title": "How to Create Engaging Blog Content",
+      "content": "Creating engaging blog content is both an art and a science. At its core, great content resonates with the reader, offering value, whether in the form of entertainment, education, or inspiration. To create content that keeps readers coming back, it's essential to understand your audience and what they are looking for. Start by identifying key topics that matter to them. Use a mix of storytelling, data, and actionable tips to craft posts that not only inform but also captivate. Visual elements, such as images, infographics, and videos, can enhance the readability of your posts. Additionally, engaging content is interactive. Encourage comments, shares, and other forms of engagement by asking questions or prompting discussions. Remember, the goal is to create a community around your blog, where readers feel valued and heard. Regularly updating your content and optimizing it for search engines will ensure it reaches a broader audience. The science behind blogging also involves analytics; use tools to measure the performance of your posts and adjust your strategy accordingly. Consistent posting, coupled with high-quality content, is the key to building a successful blog.",
+      "links": [
+        "https://www.contentmarketinginstitute.com/2019/02/engaging-content-marketing/",
+        "https://buffer.com/library/how-to-create-engaging-content/",
+        "https://www.optinmonster.com/how-to-write-content-for-your-blog/"
+      ],
+      "tags": [
+        "engaging content",
+        "blogging tips",
+        "content creation",
+        "audience engagement",
+        "visual storytelling"
+      ],
+      "time": "2024-08-01T09:14:32.245Z"
+    },
+    {
+      "id": "f6g7h8i9-j0k1-2345-ab67-cd89ef01gh23",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "blogImg": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+      "title": "SEO Strategies for Modern Blogs",
+      "content": "Search Engine Optimization (SEO) is a critical component of any successful blog. In the ever-competitive digital landscape, ensuring your blog posts are visible to your target audience can make or break your online presence. Modern SEO strategies involve a mix of keyword research, on-page optimization, and link-building techniques. Begin by identifying keywords that are relevant to your blog's content and audience. These keywords should be naturally integrated into your posts without keyword stuffing, which can harm your SEO efforts. On-page optimization includes using these keywords in your titles, headers, meta descriptions, and throughout your content. Additionally, optimizing your images with alt text and ensuring your blog is mobile-friendly are essential steps. Link-building, both internal and external, helps improve your site's authority and search rankings. Regularly updating your content and removing outdated information also contribute to better SEO performance. Finally, using analytics tools like Google Analytics can provide insights into your SEO strategy’s effectiveness, helping you refine your approach over time.",
+      "links": [
+        "https://moz.com/beginners-guide-to-seo",
+        "https://ahrefs.com/blog/seo-basics/",
+        "https://backlinko.com/seo-this-year"
+      ],
+      "tags": [
+        "SEO",
+        "search engine optimization",
+        "blog visibility",
+        "keyword research",
+        "link building"
+      ],
+      "time": "2024-07-20T11:53:09.134Z"
+    },
+    {
+      "id": "h1i2j3k4-l5m6-7890-ab89-cd12ef34gh56",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "blogImg": "https://images.unsplash.com/photo-1525182008055-f88b95ff7980",
+      "title": "Maximizing Blog Traffic Through Social Media",
+      "content": "Social media is a powerful tool for driving traffic to your blog. With billions of users across various platforms, social media offers bloggers an unprecedented opportunity to reach a vast audience. The key to maximizing blog traffic through social media lies in understanding the unique strengths of each platform. For instance, Twitter is excellent for sharing bite-sized content and engaging in real-time conversations, while Instagram is ideal for visually-driven posts. Facebook allows for community building through groups, and LinkedIn is perfect for professional and industry-specific content. To effectively drive traffic, it's important to tailor your social media strategy to your blog's content and audience. Consistent posting, coupled with the use of hashtags and tags, can significantly increase your reach. Additionally, engaging with your audience through comments, shares, and direct messages can foster a loyal community. Social media platforms also offer analytics tools to help you track the performance of your posts and adjust your strategy accordingly. Ultimately, social media is not just about broadcasting your content; it's about creating a dialogue with your audience and building relationships that encourage them to visit your blog.",
+      "links": [
+        "https://buffer.com/library/social-media-strategy-blog/",
+        "https://neilpatel.com/blog/social-media-strategy/",
+        "https://blog.hootsuite.com/social-media-strategy-guide/"
+      ],
+      "tags": [
+        "social media",
+        "blog traffic",
+        "audience engagement",
+        "content sharing",
+        "social media strategy"
+      ],
+      "time": "2024-07-28T16:30:47.901Z"
+    },
+    {
+      "id": "k5l6m7n8-o9p0-1234-ab90-cd45ef67gh78",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "blogImg": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
+      "title": "The Role of Analytics in Blogging Success",
+      "content": "In the world of blogging, data is king. Understanding how your blog performs through analytics is crucial for long-term success. Analytics provide insights into your audience's behavior, showing you what content resonates the most, how visitors are finding your blog, and how long they are staying on your pages. By analyzing metrics such as page views, bounce rates, and conversion rates, you can identify strengths and weaknesses in your content strategy. For instance, if you notice that certain posts are driving more traffic, you might consider creating more content on similar topics. \n  Conversely, if your bounce rate is high, it could indicate that your content is not engaging enough, or that your site’s user experience needs improvement. Tools like Google Analytics offer a wealth of data that can help you refine your blogging strategy. They allow you to track real-time data, set goals, and even conduct A/B testing to see what works best. Regularly reviewing and analyzing this data will enable you to make informed decisions, optimize your blog's performance, and ultimately achieve greater success.",
+      "links": [
+        "https://blog.hubspot.com/marketing/google-analytics-for-bloggers",
+        "https://www.monsterinsights.com/google-analytics-guide/",
+        "https://backlinko.com/google-analytics-guide"
+      ],
+      "tags": [
+        "blog analytics",
+        "data-driven blogging",
+        "content strategy",
+        "user behavior",
+        "performance metrics"
+      ],
+      "time": "2024-07-22T08:22:55.713Z"
+    },
+    {
+      "id": "p6q7r8s9-t0u1-2345-ab12-cd67ef89gh01",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "blogImg": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "title": "Monetizing Your Blog: Strategies for Success",
+      "content": "Turning a blog into a source of income is a goal for many bloggers, but it requires a well-thought-out strategy. Monetization can take many forms, from affiliate marketing and sponsored posts to selling products or services directly through your blog. Affiliate marketing involves promoting products or services and earning a commission for each sale made through your referral. To succeed in affiliate marketing, it's important to choose products that align with your blog's content and audience. Sponsored posts, where companies pay you to write about their products or services, are another popular monetization method. However, maintaining transparency with your audience is key to preserving trust. Another option is to sell digital products, such as e-books, online courses, or premium content, directly to your audience. Membership models, where readers pay a subscription fee for exclusive content, are also gaining popularity. Regardless of the method you choose, it's important to focus on providing value to your audience. A blog that consistently delivers high-quality content will naturally attract opportunities for monetization. Remember, monetization is a long-term strategy; it requires patience, consistency, and a deep understanding of your audience's needs and preferences.",
+      "links": [
+        "https://www.smartpassiveincome.com/passive-income-101/",
+        "https://www.problogger.com/how-to-make-money-blogging/",
+        "https://www.thebalance.com/how-to-make-money-blogging-4158576"
+      ],
+      "tags": [
+        "blog monetization",
+        "affiliate marketing",
+        "sponsored posts",
+        "digital products",
+        "passive income"
+      ],
+      "time": "2024-08-03T10:45:21.389Z"
+    },
+    {
+      "id": "u7v8w9x0-y1z2-3456-ab34-cd78ef90gh12",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "blogImg": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963",
+      "title": "Building a Community Around Your Blog",
+      "content": "One of the most rewarding aspects of blogging is the ability to build a community of like-minded individuals. A strong community can turn casual readers into loyal followers and even advocates for your brand. Building a community starts with engaging content that resonates with your audience. However, it goes beyond just posting; it involves actively interacting with your readers. Responding to comments, asking for feedback, and encouraging discussions are all ways to foster a sense of community. Social media platforms also play a crucial role in community building. Creating dedicated groups or pages where readers can interact with each other and with you can enhance the sense of belonging. Hosting webinars, live chats, or Q&A sessions can further strengthen the connection with your audience. It's important to listen to your community and be responsive to their needs and interests. Consistency is key; regular interaction helps maintain the momentum and keeps your community engaged. Ultimately, a thriving community around your blog can lead to greater success, not only in terms of traffic but also in terms of personal and professional fulfillment.",
+      "links": [
+        "https://neilpatel.com/blog/how-to-build-a-community-around-your-blog/",
+        "https://blog.hubspot.com/service/community-building-strategy",
+        "https://buffer.com/library/building-community-blog/"
+      ],
+      "tags": [
+        "community building",
+        "audience engagement",
+        "social media",
+        "brand advocacy",
+        "interactive content"
+      ],
+      "time": "2024-08-05T13:37:44.156Z"
+    },
+    {
+      "id": "x0y1z2a3-b4c5-6789-ab56-cd90ef12gh34",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "blogImg": "https://images.unsplash.com/photo-1506773090264-ac0b07293a64",
+      "title": "Effective Blogging for Business Growth",
+      "content": "Blogging is a powerful tool for business growth, offering a platform to connect with customers, showcase expertise, and drive traffic to your website. Effective blogging involves creating content that addresses the needs and interests of your target audience. Whether it's providing solutions to common problems, sharing industry insights, or offering how-to guides, the content should be valuable and relevant. SEO plays a critical role in ensuring your blog reaches the right audience. By optimizing your posts with relevant keywords, you can improve your search engine rankings and attract more visitors. Additionally, incorporating call-to-actions (CTAs) within your posts can guide readers towards taking specific actions, such as signing up for a newsletter or making a purchase. Consistency in posting is also essential; a regular posting schedule helps maintain engagement and keeps your brand top-of-mind. Finally, measuring the success of your blogging efforts through analytics allows you to refine your strategy and achieve better results over time. Businesses that effectively leverage blogging can enjoy increased brand visibility, customer loyalty, and overall growth.",
+      "links": [
+        "https://blog.hubspot.com/marketing/business-blogging-strategy",
+        "https://www.entrepreneur.com/article/278038",
+        "https://www.wordstream.com/blog/ws/2017/06/14/business-blogging"
+      ],
+      "tags": [
+        "business blogging",
+        "SEO",
+        "content marketing",
+        "customer engagement",
+        "brand growth"
+      ],
+      "time": "2024-07-30T12:08:27.654Z"
+    },
+    {
+      "id": "c3d4e5f6-g7h8-9012-ab78-cd12ef34gh56",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "blogImg": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963",
+      "title": "The Evolution of Blogging: From Journals to Influencers",
+      "content": "The history of blogging is a fascinating journey that mirrors the evolution of the internet itself. What began as personal online journals has transformed into a global phenomenon, with millions of blogs covering every conceivable topic. In the early days, blogs were simple, text-based platforms where individuals could share their thoughts and experiences. As technology advanced, blogs became more sophisticated, incorporating images, videos, and interactive elements. The rise of social media further fueled the growth of blogging, enabling bloggers to reach wider audiences and connect with readers in new ways. Today, blogging is a major industry, with influencers and content creators leveraging their blogs to build personal brands, collaborate with businesses, and even generate income. The evolution of blogging is not just about technology; it's about the changing ways people consume and interact with content. As the internet continues to evolve, so too will blogging, adapting to new trends and technologies while remaining a vital part of the digital landscape.",
+      "links": [
+        "https://www.thebalance.com/history-of-blogging-4056813",
+        "https://firstsiteguide.com/blogging-history/",
+        "https://www.makeuseof.com/tag/history-blogging-how-it-all-started/"
+      ],
+      "tags": [
+        "blogging history",
+        "digital evolution",
+        "content creation",
+        "influencers",
+        "social media"
+      ],
+      "time": "2024-07-26T15:29:34.512Z"
+    },
+    {
+      "id": "e5f6g7h8-i9j0-1234-ab89-cd34ef56gh78",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "blogImg": "https://images.unsplash.com/photo-1484249170766-998fa6efe3c0",
+      "title": "Writing for the Web: Best Practices for Bloggers",
+      "content": "Writing for the web is a unique skill that combines creativity with technical knowledge. Unlike traditional writing, web writing must cater to readers who often skim content rather than read it word-for-word. To capture and retain the attention of your audience, it's important to write in a clear, concise, and engaging manner. Short paragraphs, bullet points, and subheadings can make your content more readable. Using a conversational tone helps build a connection with readers, making your blog more relatable. SEO best practices, such as using relevant keywords, optimizing meta descriptions, and including internal and external links, are also essential for increasing your content's visibility. Visual elements, such as images and infographics, can further enhance your posts and break up large blocks of text. Finally, editing and proofreading are critical; web writing should be free of errors to maintain credibility. By following these best practices, you can create content that not only ranks well in search engines but also resonates with your audience.",
+      "links": [
+        "https://blog.hubspot.com/marketing/writing-for-the-web",
+        "https://www.wordstream.com/blog/ws/2015/03/02/writing-for-the-web",
+        "https://neilpatel.com/blog/write-awesome-blog-post/"
+      ],
+      "tags": [
+        "web writing",
+        "SEO",
+        "content creation",
+        "readability",
+        "digital marketing"
+      ],
+      "time": "2024-08-02T14:55:10.876Z"
+    },
+    {
+      "id": "ba0ad4e1-478a-4aff-aebe-05087d6fd4a8",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal",
+      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "blogImg": "https://images.unsplash.com/photo-1721355623034-807a3251163a?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "new blog just for testing",
+      "content": "UI stands for user interface. It is the point of contact between humans and computers. Any technology you interact with as a user is part of the user interface. \n\nFor example, screens, sounds, overall style, and responsiveness are all elements of UI.",
+      "links": [
+        "https://www.geeksforgeeks.org/node-js-npm-uuid/",
+        "https://www.wix.com/website/templates/html/blog",
+        "hloooooo"
+      ],
+      "tags": [
+        "helllo",
+        "world",
+        "ohhhh",
+        "nooo"
+      ],
+      "time": "2024-08-12T13:31:07.075Z"
+    },
+    {
+      "id": "539165dc-c603-4f9b-bf9d-46544b700fbc",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak",
+      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "blogImg": "https://images.unsplash.com/photo-1699475957534-511ecf521e23?q=80&w=771&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "new blog by me",
+      "content": "UI stands for user interface. It is the point of contact between humans and computers. Any technology you interact with as a user is p\n\n\n\n\nart of the user interface. For example, screens, sounds, overall style, and responsiveness are all elements of UI.",
+      "links": [
+        "https://www.geeksforgeeks.org/node-js-npm-uuid/",
+        "https://www.wix.com/website/templates/html/blog"
+      ],
+      "tags": [
+        "#Elephants",
+        "#WildlifeConservation",
+        "#AnimalFacts",
+        "#EndangeredSpecies",
+        "#AfricanElephants",
+        "#AsianElephants"
+      ],
+      "time": "2024-08-12T13:35:02.416Z"
+    }
+  ],
+  "announcement": [
+    {
+      "avatar": "https://avatar.iran.liara.run/public/girl",
+      "name": "Anchal",
+      "timeAgo": "1 hour ago",
+      "category": "Hackathon",
+      "title": "National Level Hackathon",
+      "content": "Join the National Level Hackathon organized by XYZ University. Showcase your coding skills and win exciting prizes!",
+      "views": 150,
+      "comments": 20,
+      "link": "https://www.xyzuniversity.com/national-hackathon",
+      "id": "5dad"
+    },
+    {
+      "avatar": "https://avatar.iran.liara.run/public/boy",
+      "name": "Ishaan",
+      "timeAgo": "3 hours ago",
+      "category": "Job Alert",
+      "title": "Software Developer Internship",
+      "content": "Tech Solutions is hiring interns for their Software Development team. Apply now and kickstart your career!",
+      "views": 200,
+      "comments": 30,
+      "link": "https://www.techsolutions.com/careers/internship",
+      "id": "45c3"
+    },
+    {
+      "avatar": "https://avatar.iran.liara.run/public/boy",
+      "name": "Karan",
+      "timeAgo": "5 hours ago",
+      "category": "Event",
+      "title": "AI & ML Workshop",
+      "content": "Attend a workshop on AI & ML conducted by experts from the industry. Enhance your knowledge and skills!",
+      "views": 180,
+      "comments": 25,
+      "link": "https://www.eventbrite.com/ai-ml-workshop",
+      "id": "ecbf"
+    },
+    {
+      "avatar": "https://avatar.iran.liara.run/public/boy",
+      "name": "Raj",
+      "timeAgo": "8 hours ago",
+      "category": "Job Alert",
+      "title": "Junior Frontend Developer Position",
+      "content": "ABC Corp is looking for a Junior Frontend Developer with proficiency in React.js. Apply now!",
+      "views": 220,
+      "comments": 40,
+      "link": "https://www.abccorp.com/careers/frontend-developer",
+      "id": "d0f5"
+    },
+    {
+      "avatar": "https://avatar.iran.liara.run/public/boy",
+      "name": "Vikram",
+      "timeAgo": "10 hours ago",
+      "category": "Hackathon",
+      "title": "Coding Sprint Challenge",
+      "content": "Participate in the Coding Sprint Challenge and win a chance to get an internship with top tech companies!",
+      "views": 130,
+      "comments": 15,
+      "link": "https://www.codingsprint.com/challenge",
+      "id": "0902"
+    },
+    {
+      "avatar": "https://avatar.iran.liara.run/public/boy",
+      "name": "Aakash",
+      "timeAgo": "12 hours ago",
+      "category": "Event",
+      "title": "Cybersecurity Seminar",
+      "content": "Attend a seminar on Cybersecurity and learn about the latest trends and threats in the field.",
+      "views": 170,
+      "comments": 22,
+      "link": "https://www.cybersecurityseminar.com/register",
+      "id": "a429"
+    },
+    {
+      "avatar": "https://avatar.iran.liara.run/public/boy",
+      "name": "Rohan",
+      "timeAgo": "14 hours ago",
+      "category": "Job Alert",
+      "title": "Backend Developer Role",
+      "content": "XYZ Tech is hiring a Backend Developer with experience in Node.js and MongoDB. Apply now!",
+      "views": 190,
+      "comments": 35,
+      "link": "https://www.xyztech.com/careers/backend-developer",
+      "id": "bf93"
+    },
+    {
+      "avatar": "https://avatar.iran.liara.run/public/boy",
+      "name": "Aditya",
+      "timeAgo": "16 hours ago",
+      "category": "Hackathon",
+      "title": "Virtual Hackathon 2024",
+      "content": "Join the Virtual Hackathon 2024 and collaborate with peers from around the globe to solve real-world problems.",
+      "views": 160,
+      "comments": 18,
+      "link": "https://www.virtualhackathon2024.com",
+      "id": "8c2f"
+    },
+    {
+      "avatar": "https://avatar.iran.liara.run/public/boy",
+      "name": "Siddharth",
+      "timeAgo": "18 hours ago",
+      "category": "Event",
+      "title": "Blockchain Conference",
+      "content": "Attend the Blockchain Conference to learn about the latest advancements and applications of blockchain technology.",
+      "views": 210,
+      "comments": 28,
+      "link": "https://www.blockchainconference.com",
+      "id": "38e2"
+    },
+    {
+      "avatar": "https://avatar.iran.liara.run/public/boy",
+      "name": "Harsh",
+      "timeAgo": "20 hours ago",
+      "category": "Job Alert",
+      "title": "UI/UX Designer Position",
+      "content": "Tech Innovators is looking for a UI/UX Designer with a creative mindset. Apply to be part of an innovative team!",
+      "views": 140,
+      "comments": 20,
+      "link": "https://www.techinnovators.com/careers/ui-ux-designer",
+      "id": "cb10"
+    }
+  ],
+  "contact": []
+}
