@@ -3,36 +3,36 @@
     {
       "id": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
       "name": "Anchal",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
+      "username": "anchal_19",
       "email": "anchal@gmail.com",
       "password": "123456",
       "university": "GNA University",
       "gender": "female",
-      "username": "anchal",
-      "profileImg": "https://avatar.iran.liara.run/public/68",
       "bio": "B.Tech student with a love for programming and a knack for innovation.",
       "Timestamp": "2024-08-11T07:49:35.579Z"
     },
     {
       "id": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
       "name": "Deepak",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
+      "username": "deepak_16",
       "email": "deepak@gmail.com",
       "password": "123456",
       "university": "GNA University",
       "gender": "male",
-      "username": "deepak",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
       "bio": "Web developer with a passion for front-end technologies.",
       "Timestamp": "2024-08-11T07:49:35.579Z"
     },
     {
       "id": "5a9480fa-3897-4a1d-aee9-a6039a427563",
       "name": "Sakshi",
+      "profileImg": "https://avatar.iran.liara.run/public/85",
+      "username": "sakshi1",
       "email": "sakshi@gmail.com",
       "password": "123456",
       "university": "Panjab University",
       "gender": "female",
-      "username": "sakshi1",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
       "bio": "Tech enthusiast passionate about creating user-friendly applications.",
       "Timestamp": "2024-08-11T07:49:35.579Z"
     },
@@ -44,7 +44,7 @@
       "university": "Amity University",
       "gender": "female",
       "username": "isha1",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "profileImg": "https://avatar.iran.liara.run/public/68",
       "bio": "Aspiring software engineer with a focus on AI and machine learning.",
       "Timestamp": "2024-08-11T07:49:35.579Z"
     },
@@ -56,7 +56,7 @@
       "university": "Lovely Professional University",
       "gender": "female",
       "username": "kritika1",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "profileImg": "https://avatar.iran.liara.run/public/92",
       "bio": "B.Tech student exploring the world of data science.",
       "Timestamp": "2024-08-11T07:49:35.579Z"
     },
@@ -68,7 +68,7 @@
       "university": "Chandigarh University",
       "gender": "female",
       "username": "pooja1",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "profileImg": "https://avatar.iran.liara.run/public/74",
       "bio": "Web developer with a passion for front-end technologies.",
       "Timestamp": "2024-08-11T07:49:35.579Z"
     },
@@ -80,7 +80,7 @@
       "university": "Delhi University",
       "gender": "male",
       "username": "rohan1",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "profileImg": "https://avatar.iran.liara.run/public/21",
       "bio": "B.Tech student specializing in full-stack development.",
       "Timestamp": "2024-08-11T07:49:35.579Z"
     },
@@ -92,7 +92,7 @@
       "university": "Guru Nanak Dev University",
       "gender": "male",
       "username": "aman1",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "profileImg": "https://avatar.iran.liara.run/public/11",
       "bio": "Future data analyst with a strong background in mathematics.",
       "Timestamp": "2024-08-11T07:49:35.579Z"
     },
@@ -104,7 +104,7 @@
       "university": "Punjab Technical University",
       "gender": "male",
       "username": "vikas1",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "profileImg": "https://avatar.iran.liara.run/public/16",
       "bio": "Software developer with a focus on scalable back-end solutions.",
       "Timestamp": "2024-08-11T07:49:35.579Z"
     },
@@ -116,7 +116,7 @@
       "university": "Jamia Millia Islamia",
       "gender": "male",
       "username": "abhishek1",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "profileImg": "https://avatar.iran.liara.run/public/20",
       "bio": "Passionate about cloud computing and DevOps.",
       "Timestamp": "2024-08-11T07:49:35.579Z"
     },
@@ -128,7 +128,7 @@
       "university": "Thapar Institute of Engineering and Technology",
       "gender": "male",
       "username": "karan1",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "profileImg": "https://avatar.iran.liara.run/public/37",
       "bio": "B.Tech student with a passion for cybersecurity.",
       "Timestamp": "2024-08-11T07:49:35.579Z"
     },
@@ -140,428 +140,241 @@
       "university": "GNA university",
       "gender": "male",
       "username": "Deepak5128",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "profileImg": "https://avatar.iran.liara.run/public/35",
       "bio": "Dedicated to making a positive impact in the world.",
       "Timestamp": "2024-08-11T12:56:34.809Z"
     }
   ],
   "notes": [
     {
-      "name": "Deepak",
-      "title": "Computer Networks (B.Tech)",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "id": "a1b2c3d4-e5f6-7890-ab12-cd34ef56gh78",
-      "userId": "a1b2c3d4-e5f6-7890-ab12-cd34ef56gh78",
-      "username": "deepak_08",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "An introduction to the fundamentals of computer networks and data communication.",
-      "timestamp": "2024-08-11T10:15:30Z"
-    },
-    {
-      "name": "Anjali",
-      "title": "Software Engineering (BCA)",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "id": "b2c3d4e5-f678-90ab-12cd-34ef56gh7890",
-      "userId": "b2c3d4e5-f678-90ab-12cd-34ef56gh7890",
-      "username": "anjali_15",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Understanding software development processes and methodologies.",
-      "timestamp": "2024-08-11T11:22:45Z"
-    },
-    {
-      "name": "Ravi",
-      "title": "Operating Systems (B.Tech)",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "id": "c3d4e5f6-7890-ab12-cd34-ef56gh7890ab",
-      "userId": "c3d4e5f6-7890-ab12-cd34-ef56gh7890ab",
-      "username": "ravi_os_12",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "A deep dive into operating system concepts and architecture.",
-      "timestamp": "2024-08-11T12:30:15Z"
-    },
-    {
-      "name": "Priya",
-      "title": "Data Structures (BCA)",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "id": "d4e5f678-90ab-12cd-34ef-56gh7890abcd",
-      "userId": "d4e5f678-90ab-12cd-34ef-56gh7890abcd",
-      "username": "priya_ds_20",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Study of data organization, management, and storage formats.",
-      "timestamp": "2024-08-11T13:45:00Z"
-    },
-    {
-      "name": "Amit",
-      "title": "Database Management Systems (B.Tech)",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "id": "e5f67890-ab12-cd34-ef56-gh7890abcdef",
-      "userId": "e5f67890-ab12-cd34-ef56-gh7890abcdef",
-      "username": "amit_dbms_17",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Exploring database design, development, and management.",
-      "timestamp": "2024-08-11T14:10:35Z"
-    },
-    {
-      "name": "Neha",
-      "title": "Computer Graphics (BCA)",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "id": "f67890ab-12cd-34ef-56gh-7890abcdef12",
-      "userId": "f67890ab-12cd-34ef-56gh-7890abcdef12",
-      "username": "neha_cg_14",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Introduction to the principles and techniques of computer graphics.",
-      "timestamp": "2024-08-11T15:25:10Z"
-    },
-    {
-      "name": "Suresh",
-      "title": "Human Anatomy (MBBS)",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "id": "g78901bc-23de-45fg-67hi-89jk0lmnopqr",
-      "userId": "g78901bc-23de-45fg-67hi-89jk0lmnopqr",
-      "username": "suresh_anatomy_21",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Study of the structure of the human body and its organs.",
-      "timestamp": "2024-08-11T16:30:25Z"
-    },
-    {
-      "name": "Kavya",
-      "title": "Physiology (MBBS)",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "id": "h89012cd-34ef-56gh-78ij-90klmnopqr12",
-      "userId": "h89012cd-34ef-56gh-78ij-90klmnopqr12",
-      "username": "kavya_physiology_19",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Exploration of the functions and processes of the human body.",
-      "timestamp": "2024-08-11T17:40:05Z"
-    },
-    {
-      "name": "Raj",
-      "title": "Electromagnetic Fields (B.Tech)",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "id": "i90123de-45fg-67hi-89jk-01lmno2pq345",
-      "userId": "i90123de-45fg-67hi-89jk-01lmno2pq345",
-      "username": "raj_emf_22",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Study of electric and magnetic fields and their interactions.",
-      "timestamp": "2024-08-11T18:50:40Z"
-    },
-    {
-      "name": "Meera",
-      "title": "Computer Architecture (BCA)",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "id": "j01234ef-56gh-78ij-90kl-mnopqr123456",
-      "userId": "j01234ef-56gh-78ij-90kl-mnopqr123456",
-      "username": "meera_arch_23",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Understanding the design and organization of computer systems.",
-      "timestamp": "2024-08-11T19:55:20Z"
-    },
-    {
-      "name": "Vijay",
-      "title": "Advanced Calculus (BSc)",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "id": "k12345fg-67hi-89jk-01lm-23nopqr45678",
-      "userId": "k12345fg-67hi-89jk-01lm-23nopqr45678",
-      "username": "vijay_calc_20",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "In-depth study of calculus concepts and applications.",
-      "timestamp": "2024-08-11T20:45:30Z"
-    },
-    {
-      "name": "Ritika",
-      "title": "Genetics (BSc)",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "id": "l23456gh-78ij-90kl-mnop-qr1234567890",
-      "userId": "l23456gh-78ij-90kl-mnop-qr1234567890",
-      "username": "ritika_genetics_18",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Study of heredity and the variation of inherited characteristics.",
-      "timestamp": "2024-08-11T21:35:55Z"
-    },
-    {
-      "name": "Arjun",
-      "title": "Microbiology (BSc)",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "id": "m34567ij-90kl-12mn-opqr-23stuv456789",
-      "userId": "m34567ij-90kl-12mn-opqr-23stuv456789",
-      "username": "arjun_micro_22",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Exploring microorganisms and their impact on humans and the environment.",
-      "timestamp": "2024-08-11T22:25:10Z"
-    },
-    {
-      "name": "Pooja",
-      "title": "Internal Medicine (MBBS)",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "id": "n45678jk-01lm-23no-pqr4-stuv56789012",
-      "userId": "n45678jk-01lm-23no-pqr4-stuv56789012",
-      "username": "pooja_medicine_20",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Focus on the prevention, diagnosis, and treatment of adult diseases.",
-      "timestamp": "2024-08-11T23:15:45Z"
-    },
-    {
-      "name": "Sanjay",
-      "title": "Software Testing (BCA)",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "id": "o56789kl-12mn-34op-qr56-stuvw890123",
-      "userId": "o56789kl-12mn-34op-qr56-stuvw890123",
-      "username": "sanjay_testing_18",
-      "description": "Techniques and practices for testing software applications.",
-      "timestamp": "2024-08-11T09:05:35Z"
-    },
-    {
-      "name": "Ishita",
-      "title": "Pharmacology (MBBS)",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "id": "p67890mn-23op-45qr-stuv-67wxyz89012",
-      "userId": "p67890mn-23op-45qr-stuv-67wxyz89012",
-      "username": "ishita_pharma_22",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Study of drugs and their effects on the human body.",
-      "timestamp": "2024-08-11T10:15:25Z"
-    },
-    {
-      "name": "Kiran",
-      "title": "Computer Vision (B.Tech)",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "id": "q78901op-12qr-34st-uv56-wxyz78901234",
-      "userId": "q78901op-12qr-34st-uv56-wxyz78901234",
-      "username": "kiran_cv_21",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Techniques and technologies used in computer vision.",
-      "timestamp": "2024-08-11T11:25:10Z"
-    },
-    {
-      "name": "Sonia",
-      "title": "Networking Fundamentals (BCA)",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "id": "r89012pq-34st-uv56-wxyz-78abcdef9012",
-      "userId": "r89012pq-34st-uv56-wxyz-78abcdef9012",
-      "username": "sonia_net_19",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Introduction to networking principles and protocols.",
-      "timestamp": "2024-08-11T12:35:50Z"
-    },
-    {
-      "name": "Rohit",
-      "title": "Digital Logic Design (B.Tech)",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "id": "s90123qr-45st-uv56-wxyz-89abcdef0123",
-      "userId": "s90123qr-45st-uv56-wxyz-89abcdef0123",
-      "username": "rohit_dld_20",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Design and analysis of digital circuits and systems.",
-      "timestamp": "2024-08-11T13:40:35Z"
-    },
-    {
-      "name": "Aarti",
-      "title": "Biochemistry (BSc)",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "id": "t01234st-uv56-wxyz-89ab-cdef01234567",
-      "userId": "t01234st-uv56-wxyz-89ab-cdef01234567",
-      "username": "aarti_bio_18",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Study of the chemical processes within and related to living organisms.",
-      "timestamp": "2024-08-11T14:50:20Z"
-    },
-    {
-      "name": "Mohan",
-      "title": "Signal Processing (B.Tech)",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "id": "u12345vw-xy67-z890-abcd-efgh01234567",
-      "userId": "u12345vw-xy67-z890-abcd-efgh01234567",
-      "username": "mohan_sp_23",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Techniques for analyzing, modifying, and synthesizing signals.",
-      "timestamp": "2024-08-11T15:55:10Z"
-    },
-    {
-      "name": "Sanya",
-      "title": "Clinical Pharmacology (MBBS)",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "id": "v23456wx-78yz-90ab-cdef-0123456789ab",
-      "userId": "v23456wx-78yz-90ab-cdef-0123456789ab",
-      "username": "sanya_clinical_21",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Focus on the application of pharmacology in clinical settings.",
-      "timestamp": "2024-08-11T16:30:00Z"
-    },
-    {
-      "name": "Ankit",
-      "title": "Web Technologies (BCA)",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "id": "w34567yz-90ab-cdef-0123-4567890abcd",
-      "userId": "w34567yz-90ab-cdef-0123-4567890abcd",
-      "username": "ankit_web_22",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Exploration of technologies used in web development.",
-      "timestamp": "2024-08-11T17:20:45Z"
-    },
-    {
-      "name": "Rina",
-      "title": "Human Physiology (MBBS)",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "id": "x45678ab-cdef-0123-4567-890123456789",
-      "userId": "x45678ab-cdef-0123-4567-890123456789",
-      "username": "rina_physiology_19",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Study of the normal functions of the human body.",
-      "timestamp": "2024-08-11T18:10:30Z"
-    },
-    {
-      "name": "Rakesh",
-      "title": "Database Systems (B.Tech)",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "id": "y56789bc-def0-1234-5678-901234567890",
-      "userId": "y56789bc-def0-1234-5678-901234567890",
-      "username": "rakesh_db_20",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Advanced study of database management and design.",
-      "timestamp": "2024-08-11T19:00:15Z"
-    },
-    {
-      "name": "Sonia",
-      "title": "Environmental Science (BSc)",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "id": "z67890cd-ef01-2345-6789-0123456789ab",
-      "userId": "z67890cd-ef01-2345-6789-0123456789ab",
-      "username": "sonia_env_22",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Study of environmental processes and human impact on the environment.",
-      "timestamp": "2024-08-11T20:30:50Z"
-    },
-    {
-      "name": "Ashok",
-      "title": "Digital Communication (B.Tech)",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "id": "a78901de-23fg-45hi-67jk-89lmnopqrs12",
-      "userId": "a78901de-23fg-45hi-67jk-89lmnopqrs12",
-      "username": "ashok_dc_21",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Principles and techniques of digital communication systems.",
-      "timestamp": "2024-08-11T21:45:35Z"
-    },
-    {
-      "name": "Divya",
-      "title": "Software Project Management (BCA)",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "id": "b89012ef-34gh-56ij-78kl-90mnopqr1234",
-      "userId": "b89012ef-34gh-56ij-78kl-90mnopqr1234",
-      "username": "divya_spm_19",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Techniques and tools for managing software development projects.",
-      "timestamp": "2024-08-11T22:25:00Z"
-    },
-    {
-      "name": "Deepak",
-      "title": "Advanced Programming (B.Tech)",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "id": "c90123fg-45hi-67jk-89lm-nopqrstu4567",
-      "userId": "c90123fg-45hi-67jk-89lm-nopqrstu4567",
-      "username": "deepak",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Advanced concepts in programming and software development.",
-      "timestamp": "2024-08-11T23:35:25Z"
-    },
-    {
-      "name": "Sita",
-      "title": "Cell Biology (BSc)",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "id": "d01234gh-56ij-78kl-90mn-opqr12345678",
-      "userId": "d01234gh-56ij-78kl-90mn-opqr12345678",
-      "username": "sita_cell_22",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Study of cell structure, function, and processes.",
-      "timestamp": "2024-08-11T09:20:40Z"
-    },
-    {
-      "name": "Ravi",
-      "title": "Introduction to Medical Imaging (MBBS)",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "id": "e12345ij-67kl-89mn-opqr-1234567890ab",
-      "userId": "e12345ij-67kl-89mn-opqr-1234567890ab",
-      "username": "ravi_mi_19",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Basics of medical imaging techniques and their applications.",
-      "timestamp": "2024-08-11T10:05:25Z"
-    },
-    {
-      "name": "Pooja",
-      "title": "Basic Econometrics (BSc)",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "id": "f23456jk-78lm-90no-pqrs-tuvwxy012345",
-      "userId": "f23456jk-78lm-90no-pqrs-tuvwxy012345",
-      "username": "pooja_econ_22",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Introduction to statistical methods for economic data analysis.",
-      "timestamp": "2024-08-11T11:20:15Z"
-    },
-    {
-      "name": "Nikhil",
-      "title": "Artificial Intelligence (B.Tech)",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "id": "g34567kl-89mn-opqr-stuv-wxyz89012345",
-      "userId": "g34567kl-89mn-opqr-stuv-wxyz89012345",
-      "username": "nikhil_ai_21",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Study of intelligent agents and AI technologies.",
-      "timestamp": "2024-08-11T12:35:55Z"
-    },
-    {
-      "name": "Kavita",
-      "title": "Molecular Biology (BSc)",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "id": "h45678mn-90op-qrst-uvw4-x56789012yz",
-      "userId": "h45678mn-90op-qrst-uvw4-x56789012yz",
-      "username": "kavita_molbio_20",
-      "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Exploration of molecular mechanisms in biological processes.",
-      "timestamp": "2024-08-11T13:50:10Z"
-    },
-    {
-      "id": "00384480-62aa-4437-b509-e84b1b9ec3ae",
+      "id": "28814257-a887-486b-8332-bd14fb7194d2",
       "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
       "name": "Anchal",
-      "username": "anchal",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "title": "Maths-12",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
+      "title": "Engineering Mathematics I",
       "file": "https://file.io/kUBCu28uxOmq",
-      "description": "12th class maths solutions",
-      "timestamp": "2024-08-12T13:27:50.513Z"
+      "description": "Introduction to calculus and linear algebra.",
+      "timestamp": "2024-08-13T15:03:31Z"
     },
     {
-      "id": "290014b0-7fb0-4060-b345-8ce0e0b68ccb",
+      "id": "32a6a6c6-ea9b-4848-ad62-28246c1691c7",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
+      "title": "Engineering Physics",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Fundamentals of classical mechanics and wave optics.",
+      "timestamp": "2024-08-13T15:08:31Z"
+    },
+    {
+      "id": "0d7b4cb0-0c38-428a-b823-8bfb7d16f10a",
       "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
       "name": "Deepak",
-      "username": "deepak",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "title": "Minor Project",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
+      "title": "Basic Electrical Engineering",
       "file": "https://file.io/kUBCu28uxOmq",
-      "description": "Project report file of AlphaDocs",
-      "timestamp": "2024-08-13T15:03:31.986Z"
+      "description": "Basic principles of electrical circuits and devices.",
+      "timestamp": "2024-08-13T15:13:31Z"
     },
     {
-        "id": "3bf0c913-0dfd-4690-8761-13c07bf25418",
-        "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
-        "name": "Anchal",
-        "username": "anchal",
-        "profileImg": "https://avatar.iran.liara.run/public/68",
-        "title": "check",
-        "description": "123ty",
-        "file": "https://file.io/kUBCu28uxOmq",
-        "timestamp": "2024-08-15T07:01:20.188Z"
-      }
+      "id": "b87695de-b360-4bdf-93b5-83d208b2bf43",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
+      "title": "Computer Programming",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Introduction to programming using C language.",
+      "timestamp": "2024-08-13T15:18:31Z"
+    },
+    {
+      "id": "0c0f5cc4-8f56-48b8-9a13-3295a6af07a7",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
+      "title": "Data Structures",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Concepts of data structures using C and C++.",
+      "timestamp": "2024-08-13T15:23:31Z"
+    },
+    {
+      "id": "ffb4c345-f805-4b4e-b9ee-fc0da7bc59d5",
+      "userId": "5a9480fa-3897-4a1d-aee9-a6039a427563",
+      "name": "Sakshi",
+      "username": "sakshi1",
+      "profileImg": "https://avatar.iran.liara.run/public/85",
+      "title": "Discrete Mathematics",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Study of mathematical structures used in computer science.",
+      "timestamp": "2024-08-13T15:28:31Z"
+    },
+    {
+      "id": "1c3b4768-7747-4482-93d3-51f8a9f91d14",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
+      "title": "Operating Systems",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Concepts and principles of operating systems.",
+      "timestamp": "2024-08-13T15:33:31Z"
+    },
+    {
+      "id": "31470c2b-25f3-46aa-8e3e-4d03f9c0bc1f",
+      "userId": "5a9480fa-3897-4a1d-aee9-a6039a427563",
+      "name": "Sakshi",
+      "username": "sakshi1",
+      "profileImg": "https://avatar.iran.liara.run/public/85",
+      "title": "Computer Networks",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Fundamentals of data communication and networking.",
+      "timestamp": "2024-08-13T15:38:31Z"
+    },
+    {
+      "id": "31d74a68-d91e-42c7-a914-9e7f3be5cf35",
+      "userId": "5a9480fa-3897-4a1d-aee9-a6039a427563",
+      "name": "Sakshi",
+      "username": "sakshi1",
+      "profileImg": "https://avatar.iran.liara.run/public/85",
+      "title": "Software Engineering",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Principles of software development and maintenance.",
+      "timestamp": "2024-08-13T15:43:31Z"
+    },
+    {
+      "id": "7b738c25-56a6-43da-96f1-b4d85e4b7c34",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
+      "title": "Database Management Systems",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Introduction to database concepts and SQL.",
+      "timestamp": "2024-08-13T15:48:31Z"
+    },
+    {
+      "id": "23f04f61-5060-408d-831e-d0ef3a01e7d7",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
+      "title": "Design and Analysis of Algorithms",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Techniques for designing and analyzing algorithms.",
+      "timestamp": "2024-08-13T15:53:31Z"
+    },
+    {
+      "id": "73393af0-84a1-40b5-8e32-929e9e6aa5f5",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
+      "title": "Microprocessors and Microcontrollers",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Study of microprocessors and their applications.",
+      "timestamp": "2024-08-13T15:58:31Z"
+    },
+    {
+      "id": "0bb1ff3e-d5d2-4a8a-bc90-837f8a3ef2c4",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
+      "title": "Artificial Intelligence",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Introduction to the basics of AI.",
+      "timestamp": "2024-08-13T16:03:31Z"
+    },
+    {
+      "id": "849f19d1-67f3-4a8e-a67f-c046ebd31eeb",
+      "userId": "5a9480fa-3897-4a1d-aee9-a6039a427563",
+      "name": "Sakshi",
+      "username": "sakshi1",
+      "profileImg": "https://avatar.iran.liara.run/public/85",
+      "title": "Machine Learning",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Fundamentals of machine learning algorithms.",
+      "timestamp": "2024-08-13T16:08:31Z"
+    },
+    {
+      "id": "a4735d89-bfb5-4b11-828a-b93a620be307",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
+      "title": "Computer Graphics",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Techniques for creating and manipulating images.",
+      "timestamp": "2024-08-13T16:13:31Z"
+    },
+    {
+      "id": "ef1e0429-18de-46c2-9a53-d2e1e8981678",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
+      "title": "Compiler Design",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Study of compiler design and implementation.",
+      "timestamp": "2024-08-13T16:18:31Z"
+    },
+    {
+      "id": "fc9c58b2-cd21-46d6-8a7d-c13329112089",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
+      "title": "Web Technologies",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Introduction to web design and development.",
+      "timestamp": "2024-08-13T16:23:31Z"
+    },
+    {
+      "id": "7f51a5f1-103d-4fcb-8c31-bb193bd8a55f",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
+      "title": "Mobile Computing",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Concepts of mobile computing and applications.",
+      "timestamp": "2024-08-13T16:28:31Z"
+    },
+    {
+      "id": "519e4fa4-9e55-4fb2-993a-2882d38762aa",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
+      "title": "Cloud Computing",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Basics of cloud computing and its services.",
+      "timestamp": "2024-08-13T16:33:31Z"
+    },
+    {
+      "id": "cfd1be3c-277e-46e2-aaca-2edb133c98aa",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
+      "title": "Cyber Security",
+      "file": "https://file.io/kUBCu28uxOmq",
+      "description": "Principles and practices of cyber security.",
+      "timestamp": "2024-08-13T16:38:31Z"
+    }
   ],
   "blog": [
     {
       "id": "a1b2c3d4-e5f6-7890-ab12-cd34ef56gh78",
       "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
       "name": "Anchal",
-      "username": "anchal",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "blogImg": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
+      "blogImg": "https://images.unsplash.com/photo-1562577309-2592ab84b1bc?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "title": "The Art and Science of Blogging: A Deep Dive",
       "content": "Blogging, once a niche activity, has grown into a formidable platform for sharing ideas, building brands, and even driving global conversations. A blog, short for 'weblog,' originally started as a personal online journal where individuals could share their thoughts, experiences, and opinions. Over time, it has evolved into a diverse medium used by businesses, educators, and influencers to connect with audiences. The beauty of blogging lies in its accessibility; anyone with an internet connection can start a blog. But what makes a blog successful? It’s a blend of art and science. The art lies in crafting compelling content that resonates with readers. Whether it's a personal anecdote, a how-to guide, or a deep analysis of a complex topic, the content should be engaging and informative. The science of blogging involves understanding SEO (Search Engine Optimization), the algorithms that drive traffic to your blog, and the metrics that help you gauge success. Regularly updating content, using keywords strategically, and building backlinks are crucial aspects of maintaining a blog's visibility. Consistency is also key; readers expect fresh content regularly, and failing to deliver can result in losing your audience. A successful blog is not just about writing; it’s about understanding your audience, knowing what they want, and delivering it in a way that adds value to their lives.",
       "links": [
@@ -583,8 +396,8 @@
       "id": "d2e3f4g5-h6i7-8901-ab23-cd45ef67gh89",
       "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
       "name": "Deepak",
-      "username": "deepak",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
       "blogImg": "https://images.unsplash.com/photo-1497493292307-31c376b6e479",
       "title": "How to Create Engaging Blog Content",
       "content": "Creating engaging blog content is both an art and a science. At its core, great content resonates with the reader, offering value, whether in the form of entertainment, education, or inspiration. To create content that keeps readers coming back, it's essential to understand your audience and what they are looking for. Start by identifying key topics that matter to them. Use a mix of storytelling, data, and actionable tips to craft posts that not only inform but also captivate. Visual elements, such as images, infographics, and videos, can enhance the readability of your posts. Additionally, engaging content is interactive. Encourage comments, shares, and other forms of engagement by asking questions or prompting discussions. Remember, the goal is to create a community around your blog, where readers feel valued and heard. Regularly updating your content and optimizing it for search engines will ensure it reaches a broader audience. The science behind blogging also involves analytics; use tools to measure the performance of your posts and adjust your strategy accordingly. Consistent posting, coupled with high-quality content, is the key to building a successful blog.",
@@ -606,8 +419,8 @@
       "id": "f6g7h8i9-j0k1-2345-ab67-cd89ef01gh23",
       "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
       "name": "Deepak",
-      "username": "deepak",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
       "blogImg": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
       "title": "SEO Strategies for Modern Blogs",
       "content": "Search Engine Optimization (SEO) is a critical component of any successful blog. In the ever-competitive digital landscape, ensuring your blog posts are visible to your target audience can make or break your online presence. Modern SEO strategies involve a mix of keyword research, on-page optimization, and link-building techniques. Begin by identifying keywords that are relevant to your blog's content and audience. These keywords should be naturally integrated into your posts without keyword stuffing, which can harm your SEO efforts. On-page optimization includes using these keywords in your titles, headers, meta descriptions, and throughout your content. Additionally, optimizing your images with alt text and ensuring your blog is mobile-friendly are essential steps. Link-building, both internal and external, helps improve your site's authority and search rankings. Regularly updating your content and removing outdated information also contribute to better SEO performance. Finally, using analytics tools like Google Analytics can provide insights into your SEO strategy’s effectiveness, helping you refine your approach over time.",
@@ -629,8 +442,8 @@
       "id": "h1i2j3k4-l5m6-7890-ab89-cd12ef34gh56",
       "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
       "name": "Anchal",
-      "username": "anchal",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
       "blogImg": "https://images.unsplash.com/photo-1525182008055-f88b95ff7980",
       "title": "Maximizing Blog Traffic Through Social Media",
       "content": "Social media is a powerful tool for driving traffic to your blog. With billions of users across various platforms, social media offers bloggers an unprecedented opportunity to reach a vast audience. The key to maximizing blog traffic through social media lies in understanding the unique strengths of each platform. For instance, Twitter is excellent for sharing bite-sized content and engaging in real-time conversations, while Instagram is ideal for visually-driven posts. Facebook allows for community building through groups, and LinkedIn is perfect for professional and industry-specific content. To effectively drive traffic, it's important to tailor your social media strategy to your blog's content and audience. Consistent posting, coupled with the use of hashtags and tags, can significantly increase your reach. Additionally, engaging with your audience through comments, shares, and direct messages can foster a loyal community. Social media platforms also offer analytics tools to help you track the performance of your posts and adjust your strategy accordingly. Ultimately, social media is not just about broadcasting your content; it's about creating a dialogue with your audience and building relationships that encourage them to visit your blog.",
@@ -652,8 +465,8 @@
       "id": "k5l6m7n8-o9p0-1234-ab90-cd45ef67gh78",
       "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
       "name": "Deepak",
-      "username": "deepak",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
       "blogImg": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
       "title": "The Role of Analytics in Blogging Success",
       "content": "In the world of blogging, data is king. Understanding how your blog performs through analytics is crucial for long-term success. Analytics provide insights into your audience's behavior, showing you what content resonates the most, how visitors are finding your blog, and how long they are staying on your pages. By analyzing metrics such as page views, bounce rates, and conversion rates, you can identify strengths and weaknesses in your content strategy. For instance, if you notice that certain posts are driving more traffic, you might consider creating more content on similar topics. \n  Conversely, if your bounce rate is high, it could indicate that your content is not engaging enough, or that your site’s user experience needs improvement. Tools like Google Analytics offer a wealth of data that can help you refine your blogging strategy. They allow you to track real-time data, set goals, and even conduct A/B testing to see what works best. Regularly reviewing and analyzing this data will enable you to make informed decisions, optimize your blog's performance, and ultimately achieve greater success.",
@@ -675,8 +488,8 @@
       "id": "p6q7r8s9-t0u1-2345-ab12-cd67ef89gh01",
       "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
       "name": "Anchal",
-      "username": "anchal",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
       "blogImg": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
       "title": "Monetizing Your Blog: Strategies for Success",
       "content": "Turning a blog into a source of income is a goal for many bloggers, but it requires a well-thought-out strategy. Monetization can take many forms, from affiliate marketing and sponsored posts to selling products or services directly through your blog. Affiliate marketing involves promoting products or services and earning a commission for each sale made through your referral. To succeed in affiliate marketing, it's important to choose products that align with your blog's content and audience. Sponsored posts, where companies pay you to write about their products or services, are another popular monetization method. However, maintaining transparency with your audience is key to preserving trust. Another option is to sell digital products, such as e-books, online courses, or premium content, directly to your audience. Membership models, where readers pay a subscription fee for exclusive content, are also gaining popularity. Regardless of the method you choose, it's important to focus on providing value to your audience. A blog that consistently delivers high-quality content will naturally attract opportunities for monetization. Remember, monetization is a long-term strategy; it requires patience, consistency, and a deep understanding of your audience's needs and preferences.",
@@ -698,8 +511,8 @@
       "id": "u7v8w9x0-y1z2-3456-ab34-cd78ef90gh12",
       "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
       "name": "Deepak",
-      "username": "deepak",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
       "blogImg": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963",
       "title": "Building a Community Around Your Blog",
       "content": "One of the most rewarding aspects of blogging is the ability to build a community of like-minded individuals. A strong community can turn casual readers into loyal followers and even advocates for your brand. Building a community starts with engaging content that resonates with your audience. However, it goes beyond just posting; it involves actively interacting with your readers. Responding to comments, asking for feedback, and encouraging discussions are all ways to foster a sense of community. Social media platforms also play a crucial role in community building. Creating dedicated groups or pages where readers can interact with each other and with you can enhance the sense of belonging. Hosting webinars, live chats, or Q&A sessions can further strengthen the connection with your audience. It's important to listen to your community and be responsive to their needs and interests. Consistency is key; regular interaction helps maintain the momentum and keeps your community engaged. Ultimately, a thriving community around your blog can lead to greater success, not only in terms of traffic but also in terms of personal and professional fulfillment.",
@@ -721,8 +534,8 @@
       "id": "x0y1z2a3-b4c5-6789-ab56-cd90ef12gh34",
       "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
       "name": "Deepak",
-      "username": "deepak",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
       "blogImg": "https://images.unsplash.com/photo-1506773090264-ac0b07293a64",
       "title": "Effective Blogging for Business Growth",
       "content": "Blogging is a powerful tool for business growth, offering a platform to connect with customers, showcase expertise, and drive traffic to your website. Effective blogging involves creating content that addresses the needs and interests of your target audience. Whether it's providing solutions to common problems, sharing industry insights, or offering how-to guides, the content should be valuable and relevant. SEO plays a critical role in ensuring your blog reaches the right audience. By optimizing your posts with relevant keywords, you can improve your search engine rankings and attract more visitors. Additionally, incorporating call-to-actions (CTAs) within your posts can guide readers towards taking specific actions, such as signing up for a newsletter or making a purchase. Consistency in posting is also essential; a regular posting schedule helps maintain engagement and keeps your brand top-of-mind. Finally, measuring the success of your blogging efforts through analytics allows you to refine your strategy and achieve better results over time. Businesses that effectively leverage blogging can enjoy increased brand visibility, customer loyalty, and overall growth.",
@@ -744,8 +557,8 @@
       "id": "c3d4e5f6-g7h8-9012-ab78-cd12ef34gh56",
       "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
       "name": "Anchal",
-      "username": "anchal",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
       "blogImg": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963",
       "title": "The Evolution of Blogging: From Journals to Influencers",
       "content": "The history of blogging is a fascinating journey that mirrors the evolution of the internet itself. What began as personal online journals has transformed into a global phenomenon, with millions of blogs covering every conceivable topic. In the early days, blogs were simple, text-based platforms where individuals could share their thoughts and experiences. As technology advanced, blogs became more sophisticated, incorporating images, videos, and interactive elements. The rise of social media further fueled the growth of blogging, enabling bloggers to reach wider audiences and connect with readers in new ways. Today, blogging is a major industry, with influencers and content creators leveraging their blogs to build personal brands, collaborate with businesses, and even generate income. The evolution of blogging is not just about technology; it's about the changing ways people consume and interact with content. As the internet continues to evolve, so too will blogging, adapting to new trends and technologies while remaining a vital part of the digital landscape.",
@@ -767,8 +580,8 @@
       "id": "e5f6g7h8-i9j0-1234-ab89-cd34ef56gh78",
       "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
       "name": "Anchal",
-      "username": "anchal",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
       "blogImg": "https://images.unsplash.com/photo-1484249170766-998fa6efe3c0",
       "title": "Writing for the Web: Best Practices for Bloggers",
       "content": "Writing for the web is a unique skill that combines creativity with technical knowledge. Unlike traditional writing, web writing must cater to readers who often skim content rather than read it word-for-word. To capture and retain the attention of your audience, it's important to write in a clear, concise, and engaging manner. Short paragraphs, bullet points, and subheadings can make your content more readable. Using a conversational tone helps build a connection with readers, making your blog more relatable. SEO best practices, such as using relevant keywords, optimizing meta descriptions, and including internal and external links, are also essential for increasing your content's visibility. Visual elements, such as images and infographics, can further enhance your posts and break up large blocks of text. Finally, editing and proofreading are critical; web writing should be free of errors to maintain credibility. By following these best practices, you can create content that not only ranks well in search engines but also resonates with your audience.",
@@ -787,172 +600,588 @@
       "time": "2024-08-02T14:55:10.876Z"
     },
     {
-      "id": "ba0ad4e1-478a-4aff-aebe-05087d6fd4a8",
+      "id": "5f0a1e83-faf9-4c7b-b55b-62d7b5461b3d",
       "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
       "name": "Anchal",
-      "username": "anchal",
-      "profileImg": "https://avatar.iran.liara.run/public/girl",
-      "blogImg": "https://images.unsplash.com/photo-1721355623034-807a3251163a?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "new blog just for testing",
-      "content": "UI stands for user interface. It is the point of contact between humans and computers. Any technology you interact with as a user is part of the user interface. \n\nFor example, screens, sounds, overall style, and responsiveness are all elements of UI.",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
+      "blogImg": "https://miro.medium.com/v2/resize:fit:1200/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg",
+      "title": "Introduction to Web Development",
+      "content": "Web development is a fascinating field that encompasses the creation and maintenance of websites and web applications. It involves a variety of disciplines and technologies, including HTML, CSS, JavaScript, and more. As a B.Tech student, learning web development is crucial as it provides a solid foundation for creating interactive and dynamic websites.\n\nThe journey of web development starts with understanding the basics of HTML, which is used to structure the content on the web. CSS, on the other hand, is responsible for styling and layout, making websites visually appealing. JavaScript adds interactivity to web pages, allowing users to engage with the content in meaningful ways.\n\nIn addition to these core technologies, modern web development often involves the use of frameworks and libraries such as React, Angular, or Vue.js. These tools streamline the development process and enhance productivity.\n\nFor those interested in diving deeper, it's essential to explore additional resources and tutorials. Websites like [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) and [W3Schools](https://www.w3schools.com/) offer comprehensive guides on web development concepts and practices.\n\nEmbracing web development not only opens doors to exciting career opportunities but also equips students with the skills to create innovative solutions in the digital age.",
       "links": [
-        "https://www.geeksforgeeks.org/node-js-npm-uuid/",
-        "https://www.wix.com/website/templates/html/blog",
-        "hloooooo"
+        "https://developer.mozilla.org/en-US/docs/Web",
+        "https://www.w3schools.com/"
       ],
       "tags": [
-        "helllo",
-        "world",
-        "ohhhh",
-        "nooo"
+        "Web Development",
+        "HTML",
+        "CSS",
+        "JavaScript"
       ],
-      "time": "2024-08-12T13:31:07.075Z"
+      "time": "2024-08-01T08:22:55.713Z"
     },
     {
-      "id": "539165dc-c603-4f9b-bf9d-46544b700fbc",
-      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
-      "name": "Deepak",
-      "username": "deepak",
-      "profileImg": "https://avatar.iran.liara.run/public/boy",
-      "blogImg": "https://images.unsplash.com/photo-1699475957534-511ecf521e23?q=80&w=771&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "new blog by me",
-      "content": "UI stands for user interface. It is the point of contact between humans and computers. Any technology you interact with as a user is p\n\n\n\n\nart of the user interface. For example, screens, sounds, overall style, and responsiveness are all elements of UI.",
+      "id": "68f8e3a1-2c7f-41e3-9537-5aeed9dfb80b",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
+      "blogImg": "https://media.licdn.com/dms/image/D4E12AQE89zIm_bgWUg/article-cover_image-shrink_720_1280/0/1685909401418?e=2147483647&v=beta&t=HwfZehDHEQWP1hccSnRPMhAXXfF_ORMOREYdg_fO22o",
+      "title": "Engineering: The Future of Innovation",
+      "content": "Engineering is at the forefront of technological advancement, driving innovation across industries. From developing cutting-edge software solutions to designing sustainable infrastructure, engineers play a critical role in shaping our future. In the field of artificial intelligence, engineers are creating algorithms that can learn and adapt, making processes more efficient and opening new possibilities for automation. Civil engineers are focusing on smart city initiatives, integrating technology to make urban living more sustainable and efficient. Moreover, the importance of interdisciplinary collaboration in engineering cannot be overstated. Engineers are now working closely with experts from other fields such as biology, chemistry, and environmental science to create holistic solutions that address the complex challenges of the modern world. As the demand for innovation continues to grow, the role of engineering will only become more vital in driving progress and improving the quality of life globally.",
       "links": [
-        "https://www.geeksforgeeks.org/node-js-npm-uuid/",
-        "https://www.wix.com/website/templates/html/blog"
+        "https://engineering.com",
+        "https://futureofengineering.org"
       ],
       "tags": [
-        "#Elephants",
-        "#WildlifeConservation",
-        "#AnimalFacts",
-        "#EndangeredSpecies",
-        "#AfricanElephants",
-        "#AsianElephants"
+        "engineering",
+        "innovation",
+        "technology"
       ],
-      "time": "2024-08-12T13:35:02.416Z"
+      "time": "2024-08-14T10:03:31Z"
+    },
+    {
+      "id": "d6c567aa-d138-4784-8b47-8839d7d65d2c",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
+      "blogImg": "https://thehotelschool.com/wp-content/uploads/2024/03/Hospitality-Management.jpg",
+      "title": "Hospitality Management: The Art of Service",
+      "content": "Hospitality management is a dynamic and ever-evolving field that emphasizes the art of providing exceptional service. Professionals in this industry are tasked with creating memorable experiences for guests, whether they are staying in a luxury hotel, dining at a fine restaurant, or attending a large-scale event. A successful hospitality manager must possess a blend of leadership, communication, and organizational skills to effectively manage teams, coordinate operations, and ensure customer satisfaction. The rise of technology in hospitality has also brought about significant changes. From online booking systems to personalized guest experiences powered by artificial intelligence, the industry is embracing innovation to enhance service delivery. Sustainability is another key focus, with many establishments adopting eco-friendly practices to reduce their environmental impact. In an increasingly globalized world, cultural sensitivity and understanding are crucial for hospitality professionals, enabling them to cater to diverse clientele and foster inclusive environments.",
+      "links": [
+        "https://hospitalityinsights.ehl.edu",
+        "https://www.hospitalitynet.org"
+      ],
+      "tags": [
+        "hospitality",
+        "management",
+        "service"
+      ],
+      "time": "2024-08-14T10:08:31Z"
+    },
+    {
+      "id": "b8cce4ae-73a5-4ba5-bf77-1b2b5b5a41d6",
+      "userId": "5a9480fa-3897-4a1d-aee9-a6039a427563",
+      "name": "Sakshi",
+      "username": "sakshi1",
+      "profileImg": "https://avatar.iran.liara.run/public/85",
+      "blogImg": "https://indoreinstitute.com/wp-content/uploads/2021/09/pharmaceutical-industry.jpg",
+      "title": "Pharmacy: The Science of Medicine",
+      "content": "Pharmacy is a vital branch of healthcare that focuses on the science of medicine. Pharmacists are responsible for ensuring the safe and effective use of medications, advising patients on the proper use of prescriptions, and collaborating with healthcare providers to optimize treatment plans. The role of pharmacists has evolved significantly in recent years, with many now involved in clinical settings where they provide direct patient care. This includes conducting health screenings, managing chronic diseases, and offering immunizations. The development of new pharmaceuticals is a complex and rigorous process that involves research, clinical trials, and regulatory approval. Pharmacists also play a crucial role in educating the public about medication safety, potential side effects, and the importance of adherence to prescribed therapies. As the field of pharmacy continues to advance, the integration of technology, such as electronic health records and telepharmacy services, is enhancing the delivery of care and improving patient outcomes.",
+      "links": [
+        "https://www.pharmacytimes.com",
+        "https://www.ashp.org"
+      ],
+      "tags": [
+        "pharmacy",
+        "medicine",
+        "healthcare"
+      ],
+      "time": "2024-08-14T10:13:31Z"
+    },
+    {
+      "id": "d18e6d8a-3a63-429a-816f-fd9bb0d68d4c",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
+      "blogImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsscOJw3cMgd-paHXUkfu4Up5WOwX_xzq38A&s",
+      "title": "Sports Science: Enhancing Athletic Performance",
+      "content": "Sports science is an interdisciplinary field that applies scientific principles to improve athletic performance. This includes studying the biomechanics of movement, the physiology of exercise, and the psychology of sport. Sports scientists work with athletes to optimize training regimens, prevent injuries, and enhance recovery. Nutrition is also a critical component of sports science, as a well-balanced diet can significantly impact an athlete's energy levels, endurance, and overall health. Advances in technology have led to the development of wearable devices that monitor various physiological parameters, providing real-time data that can be used to fine-tune training programs. Sports science is not only applicable to elite athletes but also plays a vital role in promoting physical activity and healthy lifestyles among the general population. By understanding the science behind exercise and performance, individuals can make informed decisions about their fitness routines, leading to improved well-being and reduced risk of chronic diseases.",
+      "links": [
+        "https://www.nsca.com",
+        "https://www.bases.org.uk"
+      ],
+      "tags": [
+        "sports",
+        "science",
+        "athletics"
+      ],
+      "time": "2024-08-14T10:18:31Z"
+    },
+    {
+      "id": "ab3d47b8-3fc5-434d-a6b3-44bc5f0a6bc7",
+      "userId": "5a9480fa-3897-4a1d-aee9-a6039a427563",
+      "name": "Sakshi",
+      "username": "sakshi1",
+      "profileImg": "https://avatar.iran.liara.run/public/85",
+      "blogImg": "https://www.hindustantimes.com/ht-img/img/2024/01/26/550x309/holding_1706246680765_1706246690173.jpg",
+      "title": "NCC: Building Discipline and Leadership",
+      "content": "The National Cadet Corps (NCC) is an organization in India that aims to instill discipline and leadership qualities in young students. Through a structured program that includes drills, adventure training, and community service, NCC cadets develop a sense of responsibility, teamwork, and patriotism. Participation in NCC is highly valued, as it not only builds character but also provides opportunities for personal and professional growth. The rigorous training equips cadets with physical endurance, mental toughness, and leadership skills that are applicable in various fields, including the armed forces. NCC also emphasizes social responsibility, encouraging cadets to engage in activities such as blood donation drives, tree plantation, and disaster relief efforts. The experience gained through NCC fosters a sense of pride and confidence in cadets, preparing them to face challenges in both their personal and professional lives.",
+      "links": [
+        "https://nccindia.nic.in",
+        "https://www.thebetterindia.com"
+      ],
+      "tags": [
+        "NCC",
+        "discipline",
+        "leadership"
+      ],
+      "time": "2024-08-14T10:23:31Z"
+    },
+    {
+      "id": "f0f4e9f1-9161-4b8e-81f5-bb62c0d6d3b3",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
+      "blogImg": "https://www.bookmyessay.com/wp-content/uploads/2018/03/Medical-Science.png",
+      "title": "Medical Science: The Pursuit of Health and Wellness",
+      "content": "Medical science is a field dedicated to understanding the human body, diagnosing diseases, and developing treatments that improve health and prolong life. The rapid advancements in medical technology have revolutionized healthcare, making it possible to diagnose conditions earlier, treat them more effectively, and even prevent some diseases altogether. Research in medical science is constantly evolving, with new discoveries leading to better patient outcomes and the development of innovative therapies. The integration of technology in medical science, such as telemedicine and electronic health records, has also improved the accessibility and efficiency of healthcare services. Medical professionals, including doctors, nurses, and researchers, work tirelessly to ensure that patients receive the best possible care. As the world faces new health challenges, such as pandemics and chronic diseases, the importance of medical science in safeguarding public health has never been more critical.",
+      "links": [
+        "https://www.who.int",
+        "https://www.nih.gov"
+      ],
+      "tags": [
+        "medical",
+        "science",
+        "health"
+      ],
+      "time": "2024-08-14T10:28:31Z"
+    },
+    {
+      "id": "d01c3427-b546-45ee-8b4b-6b92d928b729",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
+      "blogImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1HHJzvn-_EoPmWjVKYKlU8W2GIeb7nF1LA&s",
+      "title": "Understanding JavaScript ES6 Features",
+      "content": "JavaScript ES6, also known as ECMAScript 2015, introduced several new features and improvements to the language. As a B.Tech student studying web development, understanding these features is crucial for writing modern and efficient JavaScript code.\n\nSome of the key features of ES6 include arrow functions, template literals, destructuring assignment, and classes. Arrow functions provide a concise syntax for writing functions, while template literals allow for easier string interpolation. Destructuring assignment simplifies the extraction of values from arrays and objects, and classes offer a more structured approach to creating objects and inheritance.\n\nAdditionally, ES6 introduced the `let` and `const` keywords for block-scoped variable declarations, which help prevent common bugs associated with `var`. Promises and async/await syntax also make handling asynchronous operations more manageable.\n\nTo stay up-to-date with JavaScript developments, refer to resources like [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction) and [JavaScript.info](https://javascript.info/). These sites provide detailed explanations and examples of ES6 features and best practices.",
+      "links": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction, https://javascript.info/",
+      "tags": [
+        "JavaScript",
+        "ES6",
+        "Programming"
+      ],
+      "time": "2024-08-05T08:22:55.713Z"
+    },
+    {
+      "id": "21e3b7e4-5f98-4a98-a4e2-56b2b139dfc3",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
+      "blogImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2wXV-SG4zIqD-jGqRz23wLMyLRkvYYKqPTw&s",
+      "title": "Building Responsive Websites with CSS Grid",
+      "content": "CSS Grid is a powerful layout system that allows developers to create complex and responsive web layouts with ease. As web development continues to evolve, mastering CSS Grid is essential for creating modern and adaptive designs.\n\nCSS Grid provides a grid-based layout system that enables developers to define rows and columns, making it easier to align and position elements on a page. Unlike traditional layout techniques, CSS Grid allows for more flexibility and control over the layout structure.\n\nTo get started with CSS Grid, familiarize yourself with properties like `grid-template-columns`, `grid-template-rows`, and `grid-area`. These properties define the grid structure and control how items are placed within the grid. Additionally, media queries can be used in conjunction with CSS Grid to create responsive designs that adapt to different screen sizes.\n\nFor further learning, check out resources like [CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) and [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout). These sites offer comprehensive guides and examples on using CSS Grid effectively.",
+      "links": [
+        "https://css-tricks.com/snippets/css/complete-guide-grid/",
+        "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout"
+      ],
+      "tags": [
+        "CSS",
+        "Grid",
+        "Web Design"
+      ],
+      "time": "2024-08-10T08:22:55.713Z"
+    },
+    {
+      "id": "a1e3f6d4-5b96-4b2f-8b98-ecf973a1b1a7",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
+      "blogImg": "https://raw.githubusercontent.com/Codecademy/articles/0b631b51723fbb3cc652ef5f009082aa71916e63/images/rest_api.svg",
+      "title": "Introduction to RESTful APIs",
+      "content": "RESTful APIs (Representational State Transfer) are a critical component of modern web development. They provide a standardized way for different applications to communicate and exchange data over HTTP.\n\nA RESTful API is designed around the principles of REST, which include stateless communication, resource-based operations, and a uniform interface. Resources are represented by URLs, and HTTP methods like GET, POST, PUT, and DELETE are used to perform operations on these resources.\n\nFor B.Tech students studying web development, understanding how to interact with RESTful APIs is essential for building and integrating web applications. API documentation and tools like Postman can assist in testing and exploring APIs.\n\nTo learn more about RESTful APIs, refer to resources like [RESTful API Tutorial](https://www.restapitutorial.com/) and [Postman Documentation](https://learning.postman.com/docs/). These resources provide valuable insights and practical examples for working with APIs.",
+      "links": [
+        "https://www.restapitutorial.com/",
+        "https://learning.postman.com/docs/"
+      ],
+      "tags": [
+        "API",
+        "REST",
+        "Web Development"
+      ],
+      "time": "2024-08-12T08:22:55.713Z"
+    },
+    {
+      "id": "4e8e3a0d-2c39-4d2b-8100-df87bbf5c7d4",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
+      "blogImg": "https://sourcebae.com/blog/wp-content/uploads/2023/08/ReactJS-Framework-Benefits.png",
+      "title": "Getting Started with React.js",
+      "content": "React.js is a popular JavaScript library for building user interfaces, particularly single-page applications. It allows developers to create reusable UI components and manage the state of an application efficiently.\n\nOne of the core concepts in React is the component-based architecture. Components are the building blocks of a React application and can be either class-based or functional. Functional components are increasingly favored due to their simplicity and the introduction of hooks in React 16.8.\n\nReact also utilizes a virtual DOM, which improves performance by minimizing direct manipulations of the actual DOM. State management and props are key concepts that help in handling data and interactions within components.\n\nTo dive deeper into React.js, explore resources like [React Official Documentation](https://reactjs.org/docs/getting-started.html) and [React Tutorial](https://reactjs.org/tutorial/tutorial.html). These resources offer detailed guides and examples for mastering React.",
+      "links": [
+        "https://reactjs.org/docs/getting-started.html",
+        "https://reactjs.org/tutorial/tutorial.html"
+      ],
+      "tags": [
+        "React",
+        "JavaScript",
+        "Web Development"
+      ],
+      "time": "2024-08-15T08:22:55.713Z"
+    },
+    {
+      "id": "95b439e1-918d-4f1b-8e35-36531c77d12d",
+      "userId": "5a9480fa-3897-4a1d-aee9-a6039a427563",
+      "name": "Sakshi",
+      "username": "sakshi1",
+      "profileImg": "https://avatar.iran.liara.run/public/85",
+      "blogImg": "https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2016/03/05134032/Why-use-ExpressJS-over-NodeJS.jpeg",
+      "title": "Understanding Node.js and Express",
+      "content": "Node.js is a powerful JavaScript runtime built on Chrome's V8 JavaScript engine, allowing developers to execute JavaScript code server-side. When combined with the Express framework, Node.js becomes a versatile tool for building web applications and APIs.\n\nExpress.js is a minimalistic web application framework for Node.js that simplifies the process of handling HTTP requests and responses. It provides a robust set of features for building web and mobile applications, including routing, middleware support, and template engines.\n\nFor B.Tech students, learning Node.js and Express is essential for full-stack development. These technologies enable the creation of scalable and efficient server-side applications, and understanding them enhances your ability to build complete web solutions.\n\nExplore resources like [Node.js Official Documentation](https://nodejs.org/en/docs/) and [Express.js Guide](https://expressjs.com/en/starter-guide.html) to get started with these technologies.",
+      "links": [
+        "https://nodejs.org/en/docs/",
+        "https://expressjs.com/en/starter-guide.html"
+      ],
+      "tags": [
+        "Node.js",
+        "Express",
+        "Backend Development"
+      ],
+      "time": "2024-08-18T08:22:55.713Z"
+    },
+    {
+      "id": "b594c3c2-cdb4-4e8b-849f-63b3c6f75409",
+      "userId": "5a9480fa-3897-4a1d-aee9-a6039a427563",
+      "name": "Sakshi",
+      "username": "sakshi1",
+      "profileImg": "https://avatar.iran.liara.run/public/85",
+      "blogImg": "https://raygun.com/blog/images/popular-javascript-frameworks/feature.png",
+      "title": "Exploring JavaScript Frameworks",
+      "content": "JavaScript frameworks like Angular, Vue.js, and React have revolutionized the way we build web applications. Each framework offers unique features and benefits that cater to different development needs.\n\nAngular, developed by Google, is a comprehensive framework for building dynamic web applications. It includes a wide range of tools and libraries for managing data and UI components. Vue.js, on the other hand, is known for its simplicity and flexibility, making it an excellent choice for both small and large-scale projects.\n\nReact, created by Facebook, focuses on building user interfaces through reusable components. Its virtual DOM and component-based architecture allow for efficient updates and rendering.\n\nAs a B.Tech student, understanding these frameworks is essential for staying current in the field of web development. To learn more, check out resources like [Angular Official Documentation](https://angular.io/docs), [Vue.js Guide](https://vuejs.org/v2/guide/), and [React Documentation](https://reactjs.org/docs/getting-started.html).",
+      "links": [
+        "https://angular.io/docs",
+        "https://vuejs.org/v2/guide/",
+        "https://reactjs.org/docs/getting-started.html"
+      ],
+      "tags": [
+        "Angular",
+        "Vue.js",
+        "React",
+        "JavaScript"
+      ],
+      "time": "2024-08-20T08:22:55.713Z"
+    },
+    {
+      "id": "1a74e7d6-9492-42b1-9897-8d6a7b46048b",
+      "userId": "5a9480fa-3897-4a1d-aee9-a6039a427563",
+      "name": "Sakshi",
+      "username": "sakshi1",
+      "profileImg": "https://avatar.iran.liara.run/public/85",
+      "blogImg": "https://www.21kschool.com/in/wp-content/uploads/sites/4/2024/03/What-Is-Block-Coding-For-Kids_Guide-To-Get-Started-With-Learning-Block-Coding.jpg",
+      "title": "Best Practices for Writing Clean Code",
+      "content": "Writing clean and maintainable code is crucial for the success of any software project. It not only improves code readability but also enhances the maintainability and scalability of applications.\n\nSome best practices for writing clean code include using meaningful variable names, following consistent naming conventions, and avoiding complex logic. Additionally, writing modular and reusable code helps in managing large codebases more effectively.\n\nB.Tech students should focus on understanding and applying these best practices to ensure their code is efficient and easy to understand. Resources like [Clean Code by Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) and [Refactoring Guru](https://refactoring.guru/) offer valuable insights into writing clean code.",
+      "links": [
+        "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+        "https://refactoring.guru/"
+      ],
+      "tags": [
+        "Clean Code",
+        "Best Practices",
+        "Programming"
+      ],
+      "time": "2024-08-22T08:22:55.713Z"
+    },
+    {
+      "id": "ff94577e-1a0b-4e69-85a5-83f4a035d9c5",
+      "userId": "5a9480fa-3897-4a1d-aee9-a6039a427563",
+      "name": "Sakshi",
+      "username": "sakshi1",
+      "profileImg": "https://avatar.iran.liara.run/public/85",
+      "blogImg": "https://www.webdesignerexpress.com/images/x2/api-integration.jpg",
+      "title": "Exploring the Power of Web APIs",
+      "content": "Web APIs (Application Programming Interfaces) play a crucial role in modern web development by allowing applications to interact with external services and data sources. APIs provide a standardized way for applications to communicate with each other, making it easier to integrate third-party services and enhance functionality.\n\nFor B.Tech students, understanding how to work with web APIs is essential for developing robust and feature-rich applications. Familiarize yourself with API endpoints, request methods, and response formats to effectively utilize APIs in your projects.\n\nResources like [Postman](https://www.postman.com/) and [API Documentation Hub](https://apidevtools.org/) can assist in exploring and testing APIs.\n\nIncorporating APIs into your projects can significantly expand their capabilities and provide a better user experience.",
+      "links": [
+        "https://www.postman.com/",
+        "https://apidevtools.org/"
+      ],
+      "tags": [
+        "API",
+        "Web Development",
+        "Integration"
+      ],
+      "time": "2024-08-25T08:22:55.713Z"
+    },
+    {
+      "id": "cddf9c64-35a4-43d8-8c90-8520d044f768",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
+      "blogImg": "https://jslib.dev/wp-content/uploads/2023/03/ably-js-async-await@2x.png",
+      "title": "Mastering Asynchronous JavaScript",
+      "content": "Asynchronous programming is a fundamental concept in JavaScript that allows developers to handle operations that take time, such as API calls or file I/O, without blocking the main thread. This is crucial for creating responsive and performant web applications.\n\nJavaScript provides several ways to handle asynchronous operations, including callbacks, promises, and async/await syntax. Promises offer a cleaner way to manage asynchronous code by chaining `.then()` and `.catch()` methods. The async/await syntax, introduced in ES8, simplifies working with promises and makes asynchronous code look more like synchronous code.\n\nFor B.Tech students, mastering asynchronous JavaScript is vital for developing efficient applications. Resources like [MDN Web Docs on Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises) and [Async/Await Guide](https://javascript.info/async) are great starting points.",
+      "links": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises",
+        "https://javascript.info/async"
+      ],
+      "tags": [
+        "JavaScript",
+        "Asynchronous",
+        "Programming"
+      ],
+      "time": "2024-08-28T08:22:55.713Z"
+    },
+    {
+      "id": "08e27d55-fb4b-49ed-a0d1-7c24ff7c48e1",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
+      "blogImg": "https://miro.medium.com/v2/resize:fit:1400/1*LyZcwuLWv2FArOumCxobpA.png",
+      "title": "Getting Started with TypeScript",
+      "content": "TypeScript is a statically typed superset of JavaScript that adds type safety to the language. By introducing types, TypeScript helps catch errors early in the development process and improves code quality.\n\nWith TypeScript, you can define types for variables, function parameters, and return values. This enhances code readability and maintainability, making it easier to work on large projects and collaborate with others.\n\nFor B.Tech students, learning TypeScript is a valuable skill for modern web development. Explore resources like [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) and [TypeScript GitHub Repository](https://github.com/Microsoft/TypeScript) to get started with TypeScript and improve your development skills.",
+      "links": [
+        "https://www.typescriptlang.org/docs/handbook/intro.html",
+        "https://github.com/Microsoft/TypeScript"
+      ],
+      "tags": [
+        "TypeScript",
+        "JavaScript",
+        "Programming"
+      ],
+      "time": "2024-08-30T08:22:55.713Z"
+    },
+    {
+      "id": "7f4e48d3-5b4a-4d90-bc6f-2a91d4b68c6d",
+      "userId": "51ac66c0-cac7-4b50-b2c6-2613f4f6ff0f",
+      "name": "Deepak",
+      "username": "deepak_16",
+      "profileImg": "https://avatar.iran.liara.run/public/41",
+      "blogImg": "https://www.pubnub.com/cdn/3prze68gbwl1/2yDi2a2sykGELWzU3JnTQJ/91b7679626f2364957d8a065a3fd599a/What_is_Socket.IO?w=747&h=325&fit=pad",
+      "title": "Understanding WebSockets for Real-Time Communication",
+      "content": "WebSockets enable real-time, bidirectional communication between a client and server over a single, long-lived connection. This technology is essential for building applications that require real-time updates, such as chat applications and live notifications.\n\nUnlike traditional HTTP requests, WebSockets maintain an open connection, allowing for low-latency communication and instant updates. This makes them ideal for applications that need to push data to clients in real-time.\n\nFor B.Tech students, mastering WebSockets is crucial for developing real-time features in web applications. Check out resources like [MDN Web Docs on WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) and [Socket.IO Documentation](https://socket.io/docs/) to learn more about WebSocket implementation and usage.",
+      "links": [
+        "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API",
+        "https://socket.io/docs/"
+      ],
+      "tags": [
+        "WebSockets",
+        "Real-Time Communication",
+        "Web Development"
+      ],
+      "time": "2024-09-02T08:22:55.713Z"
+    },
+    {
+      "id": "6fbb3f1d-c9e5-4f77-97f1-b2a6a3c3348b",
+      "userId": "0f2e9ed4-2cf9-4f2b-8c14-5124c90be3f2",
+      "name": "Anchal",
+      "username": "anchal_19",
+      "profileImg": "https://avatar.iran.liara.run/public/64",
+      "blogImg": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Introduction to React.js",
+      "content": "React Hooks are functions that let you use state and other React features without writing a class. Introduced in React 16.8, Hooks allow you to manage component state, handle side effects, and more, all within functional components.\n\nSome commonly used hooks include `useState`, `useEffect`, and `useContext`. `useState` allows you to add state to functional components, while `useEffect` handles side effects like data fetching or subscribing to external events. `useContext` is used for managing global state across the application.\n\nFor B.Tech students, mastering React Hooks is essential for modern React development. Resources like [React Hooks Documentation](https://reactjs.org/docs/hooks-intro.html) and [React Hooks API Reference](https://reactjs.org/docs/hooks-reference.html) provide comprehensive guides on using hooks effectively.",
+      "links": [
+        "https://reactjs.org/docs/hooks-intro.html",
+        "https://reactjs.org/docs/hooks-reference.html"
+      ],
+      "tags": [
+        "React",
+        "Hooks",
+        "JavaScript"
+      ],
+      "time": "2024-09-05T08:22:55.713Z"
     }
   ],
   "announcement": [
     {
-      "avatar": "https://avatar.iran.liara.run/public/girl",
-      "name": "Anchal",
-      "timeAgo": "1 hour ago",
-      "category": "Hackathon",
-      "title": "National Level Hackathon",
-      "content": "Join the National Level Hackathon organized by XYZ University. Showcase your coding skills and win exciting prizes!",
-      "views": 150,
-      "comments": 20,
-      "link": "https://www.xyzuniversity.com/national-hackathon",
-      "id": "5dad"
+      "id": "34ef1a9e-7b1b-4a4b-b4d4-fab9ad623af8",
+      "timeAgo": "2 hours ago",
+      "category": "Job",
+      "title": "Software Engineer at TechCorp",
+      "content": "TechCorp is hiring B.Tech graduates for a Software Engineer role. Apply now to work with cutting-edge technologies.",
+      "link": "https://techcorp.com/careers/software-engineer"
     },
     {
-      "avatar": "https://avatar.iran.liara.run/public/boy",
-      "name": "Ishaan",
-      "timeAgo": "3 hours ago",
-      "category": "Job Alert",
-      "title": "Software Developer Internship",
-      "content": "Tech Solutions is hiring interns for their Software Development team. Apply now and kickstart your career!",
-      "views": 200,
-      "comments": 30,
-      "link": "https://www.techsolutions.com/careers/internship",
-      "id": "45c3"
-    },
-    {
-      "avatar": "https://avatar.iran.liara.run/public/boy",
-      "name": "Karan",
+      "id": "d1fae5d5-6e6e-4b1d-9a4c-6c61d2c66b44",
       "timeAgo": "5 hours ago",
-      "category": "Event",
-      "title": "AI & ML Workshop",
-      "content": "Attend a workshop on AI & ML conducted by experts from the industry. Enhance your knowledge and skills!",
-      "views": 180,
-      "comments": 25,
-      "link": "https://www.eventbrite.com/ai-ml-workshop",
-      "id": "ecbf"
-    },
-    {
-      "avatar": "https://avatar.iran.liara.run/public/boy",
-      "name": "Raj",
-      "timeAgo": "8 hours ago",
-      "category": "Job Alert",
-      "title": "Junior Frontend Developer Position",
-      "content": "ABC Corp is looking for a Junior Frontend Developer with proficiency in React.js. Apply now!",
-      "views": 220,
-      "comments": 40,
-      "link": "https://www.abccorp.com/careers/frontend-developer",
-      "id": "d0f5"
-    },
-    {
-      "avatar": "https://avatar.iran.liara.run/public/boy",
-      "name": "Vikram",
-      "timeAgo": "10 hours ago",
       "category": "Hackathon",
-      "title": "Coding Sprint Challenge",
-      "content": "Participate in the Coding Sprint Challenge and win a chance to get an internship with top tech companies!",
-      "views": 130,
-      "comments": 15,
-      "link": "https://www.codingsprint.com/challenge",
-      "id": "0902"
+      "title": "CodeFest 2024 Hackathon",
+      "content": "Join CodeFest 2024 to compete in a national hackathon. Solve real-world problems and win exciting prizes.",
+      "link": "https://codefest2024.com/register"
     },
     {
-      "avatar": "https://avatar.iran.liara.run/public/boy",
-      "name": "Aakash",
-      "timeAgo": "12 hours ago",
+      "id": "b7a1a6cd-3c65-4e2d-8e02-2a9ff1b056f9",
+      "timeAgo": "1 day ago",
+      "category": "Placement",
+      "title": "Infosys Campus Drive",
+      "content": "Infosys is conducting a campus recruitment drive for B.Tech students. Prepare for aptitude tests and interviews.",
+      "link": "https://infosys.com/campus-recruitment"
+    },
+    {
+      "id": "b79d7c39-1fc2-4e0b-8a60-55e58ad3d890",
+      "timeAgo": "3 days ago",
+      "category": "Quiz Competition",
+      "title": "TechTrivia 2024 Quiz",
+      "content": "Participate in TechTrivia 2024, a quiz competition for B.Tech students. Test your knowledge and win internships.",
+      "link": "https://techtrivia2024.com/participate"
+    },
+    {
+      "id": "c0f2e9b9-4f59-4bba-b5c7-4f98a84a5f37",
+      "timeAgo": "5 days ago",
       "category": "Event",
-      "title": "Cybersecurity Seminar",
-      "content": "Attend a seminar on Cybersecurity and learn about the latest trends and threats in the field.",
-      "views": 170,
-      "comments": 22,
-      "link": "https://www.cybersecurityseminar.com/register",
-      "id": "a429"
+      "title": "XYZ TechFest 2024",
+      "content": "Attend XYZ University's Annual TechFest 2024. Join workshops, exhibitions, and competitions. Register now!",
+      "link": "https://xyzuniversity.com/techfest2024"
     },
     {
-      "avatar": "https://avatar.iran.liara.run/public/boy",
-      "name": "Rohan",
-      "timeAgo": "14 hours ago",
-      "category": "Job Alert",
-      "title": "Backend Developer Role",
-      "content": "XYZ Tech is hiring a Backend Developer with experience in Node.js and MongoDB. Apply now!",
-      "views": 190,
-      "comments": 35,
-      "link": "https://www.xyztech.com/careers/backend-developer",
-      "id": "bf93"
+      "id": "2d6fa6d7-7b0e-4d44-89a5-c0d564582a6f",
+      "timeAgo": "1 week ago",
+      "category": "Job",
+      "title": "Web Developer at WebGen",
+      "content": "WebGen is hiring B.Tech graduates for a Web Developer role. Join an innovative team and build your career.",
+      "link": "https://webgen.com/careers/web-developer"
     },
     {
-      "avatar": "https://avatar.iran.liara.run/public/boy",
-      "name": "Aditya",
-      "timeAgo": "16 hours ago",
-      "category": "Hackathon",
-      "title": "Virtual Hackathon 2024",
-      "content": "Join the Virtual Hackathon 2024 and collaborate with peers from around the globe to solve real-world problems.",
-      "views": 160,
-      "comments": 18,
-      "link": "https://www.virtualhackathon2024.com",
-      "id": "8c2f"
+      "id": "d2a8fc62-780f-45df-b1c6-0cf99586e1a3",
+      "timeAgo": "10 days ago",
+      "category": "Coding Event",
+      "title": "AlgoMania 2024 Coding",
+      "content": "Join AlgoMania 2024 to solve algorithmic challenges. Win job offers and test your coding skills.",
+      "link": "https://algomania2024.com/signup"
     },
     {
-      "avatar": "https://avatar.iran.liara.run/public/boy",
-      "name": "Siddharth",
-      "timeAgo": "18 hours ago",
+      "id": "91b90c68-cb1b-40a6-bc15-64bcd9a60a36",
+      "timeAgo": "2 weeks ago",
+      "category": "Placement",
+      "title": "Capgemini Off-Campus Drive",
+      "content": "Capgemini's off-campus drive is open for B.Tech graduates. Apply now for positions in various tech domains.",
+      "link": "https://capgemini.com/careers/off-campus-drive"
+    },
+    {
+      "id": "84f7c8bc-f9d1-4f6a-8c32-7d78c2b9e223",
+      "timeAgo": "3 weeks ago",
+      "category": "Job",
+      "title": "AI Engineer at DataWorks",
+      "content": "DataWorks seeks B.Tech graduates for AI Engineer roles. Work on ML models and AI-powered solutions.",
+      "link": "https://dataworks.com/careers/ai-engineer"
+    },
+    {
+      "id": "5e4f4aef-2bc1-4b49-a718-b0dd8f973f88",
+      "timeAgo": "1 month ago",
       "category": "Event",
-      "title": "Blockchain Conference",
-      "content": "Attend the Blockchain Conference to learn about the latest advancements and applications of blockchain technology.",
-      "views": 210,
-      "comments": 28,
-      "link": "https://www.blockchainconference.com",
-      "id": "38e2"
+      "title": "Innovate 2024 Expo",
+      "content": "Showcase your engineering projects at Innovate 2024. Win prizes and internships. Register today!",
+      "link": "https://innovate2024.com/register"
     },
     {
-      "avatar": "https://avatar.iran.liara.run/public/boy",
-      "name": "Harsh",
-      "timeAgo": "20 hours ago",
-      "category": "Job Alert",
-      "title": "UI/UX Designer Position",
-      "content": "Tech Innovators is looking for a UI/UX Designer with a creative mindset. Apply to be part of an innovative team!",
-      "views": 140,
-      "comments": 20,
-      "link": "https://www.techinnovators.com/careers/ui-ux-designer",
-      "id": "cb10"
+      "id": "9b1e3c36-3f9f-4144-814d-8d7d47373de2",
+      "timeAgo": "1 month ago",
+      "category": "Fest",
+      "title": "ABC Cultural Fest 2024",
+      "content": "Join ABC College's Cultural Fest 2024. Participate in technical and cultural events. Don't miss the job fair!",
+      "link": "https://abccollege.com/cultural-fest-2024"
+    },
+    {
+      "id": "e3b7e4b1-4d95-464b-9dcb-0c321b7180d1",
+      "timeAgo": "2 months ago",
+      "category": "Job",
+      "title": "Cybersecurity Analyst at SecureNet",
+      "content": "SecureNet is hiring Cybersecurity Analysts. Protect IT infrastructure and secure the digital world.",
+      "link": "https://securenet.com/careers/cybersecurity-analyst"
+    },
+    {
+      "id": "0ed1fbbc-fb3e-4f8e-858d-0c88a318615f",
+      "timeAgo": "2 months ago",
+      "category": "Event",
+      "title": "DEF Tech Carnival 2024",
+      "content": "Attend DEF Institute's Tech Carnival 2024. Join technical challenges and enjoy the cultural evening.",
+      "link": "https://definstitute.com/tech-carnival-2024"
+    },
+    {
+      "id": "b34c47cf-bd57-40b6-b02d-e2df2d12d418",
+      "timeAgo": "3 months ago",
+      "category": "Placement",
+      "title": "TCS NQT 2024",
+      "content": "Register for TCS National Qualifier Test (NQT) 2024. Secure job opportunities at top companies.",
+      "link": "https://tcs.com/nqt-2024"
+    },
+    {
+      "id": "5fe12fbd-013f-4e87-8ef4-ef5f29e7f7a9",
+      "timeAgo": "4 months ago",
+      "category": "Coding Event",
+      "title": "HackTheCode 2024 Marathon",
+      "content": "Join HackTheCode 2024, an online coding marathon. Compete globally and win cash prizes and job offers.",
+      "link": "https://hackthecode2024.com/register"
     }
   ],
-  "contact": []
+  "contact": [
+    {
+      "id": "e34267db-1f6d-45f5-8ad1-90d183f77a8f",
+      "name": "Rahul Mehta",
+      "email": "rahul.mehta@example.com",
+      "phone": "+1234567890",
+      "message": "Alphadocs is an amazing platform! I love the user-friendly interface. However, I would suggest adding a dark mode option.",
+      "timestamp": "2024-08-15T08:24:31.986Z"
+    },
+    {
+      "id": "a93e6f8b-2dfb-4c4d-843e-4e7a5767e987",
+      "name": "Priya Sharma",
+      "email": "priya.sharma@example.com",
+      "phone": "+9876543210",
+      "message": "I'm facing issues uploading large files on Alphadocs. Could you please help resolve this?",
+      "timestamp": "2024-08-16T10:42:17.986Z"
+    },
+    {
+      "id": "d98f3b76-c3b7-41a2-b83d-6890b7f4892f",
+      "name": "Amit Patel",
+      "email": "amit.patel@example.com",
+      "phone": "+1230987654",
+      "message": "Great platform for sharing documents, but the search functionality could be improved to find notes more efficiently.",
+      "timestamp": "2024-08-17T09:12:45.986Z"
+    },
+    {
+      "id": "ab5e9a9e-935f-4b3e-b8f1-1ef85ed87b9f",
+      "name": "Sonia Gupta",
+      "email": "sonia.gupta@example.com",
+      "phone": "+4567890123",
+      "message": "I had trouble resetting my password on Alphadocs. The reset email didn't arrive. Can you assist?",
+      "timestamp": "2024-08-18T14:55:31.986Z"
+    },
+    {
+      "id": "3cf1c70e-b1f5-41b0-8cd3-1a6ad8bb6cbb",
+      "name": "Vikram Singh",
+      "email": "vikram.singh@example.com",
+      "phone": "+6543219870",
+      "message": "The idea behind Alphadocs is fantastic! I would recommend adding a feature to annotate documents directly on the platform.",
+      "timestamp": "2024-08-19T16:23:19.986Z"
+    },
+    {
+      "id": "a7c6f97d-7417-4f3b-9c12-6e9b73884df3",
+      "name": "Meera Joshi",
+      "email": "meera.joshi@example.com",
+      "phone": "+7890123456",
+      "message": "There seems to be a bug when viewing notes on mobile devices. The text overlaps in some areas.",
+      "timestamp": "2024-08-20T11:37:05.986Z"
+    },
+    {
+      "id": "cf2a0b37-0151-4b61-8f9d-f5b1b1c7e932",
+      "name": "Rohan Desai",
+      "email": "rohan.desai@example.com",
+      "phone": "+3216549870",
+      "message": "Alphadocs has been very helpful in sharing my notes with classmates. Could you add a feature to organize notes by subject?",
+      "timestamp": "2024-08-21T13:45:50.986Z"
+    },
+    {
+      "id": "bf4e2a6b-f8c6-4f93-a7d4-9177a32b8f6a",
+      "name": "Anjali Verma",
+      "email": "anjali.verma@example.com",
+      "phone": "+9087654321",
+      "message": "I'm experiencing slow loading times on Alphadocs, especially when accessing larger files. Is there a way to optimize this?",
+      "timestamp": "2024-08-22T15:58:34.986Z"
+    },
+    {
+      "id": "de7f58c4-7bfa-4c4f-9ebc-234f0e824f09",
+      "name": "Karan Malhotra",
+      "email": "karan.malhotra@example.com",
+      "phone": "+1122334455",
+      "message": "I accidentally deleted a document. Is there any way to recover it on Alphadocs?",
+      "timestamp": "2024-08-23T17:11:22.986Z"
+    },
+    {
+      "id": "c0f3a5c7-8d18-4a67-890d-234c8f6d3b39",
+      "name": "Simran Kaur",
+      "email": "simran.kaur@example.com",
+      "phone": "+6677889900",
+      "message": "The layout of the dashboard on Alphadocs is very intuitive, but I'd suggest allowing customization of the homepage.",
+      "timestamp": "2024-08-24T18:29:10.986Z"
+    }
+  ]
 }
